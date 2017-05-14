@@ -1,5 +1,5 @@
-                        Presidential Speeches
-                        =====================
+Presidential Speeches
+=====================
 
 This repository holds the raw text of 978 presidential speeches, and
 some open source code for doing (so far rudimentary) analysis of them.
