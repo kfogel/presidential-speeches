@@ -1,0 +1,929 @@
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+<meta property="fb:app_id" content="" />
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-291080-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
+<meta name="title" content="March 4, 1861: First Inaugural Address | Miller Center" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" />
+<link rel="shortcut icon" href="/themes/custom/miller/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="canonical" href="/the-presidency/presidential-speeches/march-4-1861-first-inaugural-address" />
+<link rel="shortlink" href="/node/2091" />
+<link rel="revision" href="/the-presidency/presidential-speeches/march-4-1861-first-inaugural-address" />
+
+    <title>March 4, 1861: First Inaugural Address | Miller Center</title>
+    <link rel="stylesheet" href="/sites/default/files/css/css_8aCV1gkEBlBYrKhkCGwiAb7LvFVy-VgtwqVjEAmLx6c.css?opc3wz" media="all" />
+<link rel="stylesheet" href="/sites/default/files/css/css_5k3Wvot9ZknUo81JSPOptVSZ_rBxaoL--QfgIt6bBx4.css?opc3wz" media="all" />
+
+    
+<!--[if lte IE 8]>
+<script src="/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+
+  </head>
+  <body class="path-node page-node-type-presidential-speech path-node-2091">
+  <div id="fb-root"></div>
+  <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+    <a href="#main-content" class="visually-hidden focusable">
+      Skip to main content
+    </a>
+    
+    
+
+<div class="layout-container">
+  <section id="mobile-menu">
+      <div class="mobile-menu-inner">
+  	<div class="mobile-close"></div>
+    <div id="block-millersearchblock-2">
+  
+    
+      
+<form class="miller-search-form" data-drupal-selector="miller-search-form" action="/the-presidency/presidential-speeches/march-4-1861-first-inaugural-address" method="post" id="miller-search-form" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-textfield form-item-title js-form-item-title">
+      
+        <input placeholder="Search" data-drupal-selector="edit-title" type="text" id="edit-title" name="title" value="" size="60" maxlength="128" class="form-text" />
+
+        </div>
+<input data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Search" class="button js-form-submit form-submit" />
+<input data-drupal-selector="form-mssbehgnoebqnjav2ee6hqzrrdyfrax0o-3fnz2y6no" type="hidden" name="form_build_id" value="form-mssBEhGNOEBQnjAV2EE6hqZrRDyFrax0O_3fNz2y6no" />
+<input data-drupal-selector="edit-miller-search-form" type="hidden" name="form_id" value="miller_search_form" />
+
+</form>
+
+
+  </div>
+<nav role="navigation" aria-labelledby="block-mainnavigation-3-menu" id="block-mainnavigation-3" class="main-nav">
+            
+  <h2 class="visually-hidden">Main navigation</h2>
+  
+
+        
+              <ul class="menu">
+    
+          <li class="menu-item menu-item--expanded"><a href="/the-presidency" data-drupal-link-system-path="node/5966">The Presidency</a>              <div>
+      <ul class="submenu">
+    
+          <li class="menu-item menu-item--expanded"><a href="/president" data-drupal-link-system-path="president">U.S. Presidents</a>              <div>
+      <ul class="submenu">
+    
+          <li class="menu-item menu-item--collapsed"><a href="/president/washington" data-drupal-link-system-path="node/43">George Washington</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/adams" data-drupal-link-system-path="node/7">John Adams</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/jefferson" data-drupal-link-system-path="node/8">Thomas Jefferson</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/madison" data-drupal-link-system-path="node/9">James Madison</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/monroe" data-drupal-link-system-path="node/10">James Monroe</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/jqadams" data-drupal-link-system-path="node/11">John Quincy Adams</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/jackson" data-drupal-link-system-path="node/12">Andrew Jackson</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/vanburen" data-drupal-link-system-path="node/13">Martin Van Buren</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/harrison" data-drupal-link-system-path="node/14">William Harrison</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/tyler" data-drupal-link-system-path="node/15">John Tyler</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/polk" data-drupal-link-system-path="node/16">James K. Polk</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/taylor" data-drupal-link-system-path="node/17">Zachary Taylor</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/fillmore" data-drupal-link-system-path="node/18">Millard Fillmore</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/pierce" data-drupal-link-system-path="node/19">Franklin Pierce</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/buchanan" data-drupal-link-system-path="node/20">James Buchanan</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/lincoln" data-drupal-link-system-path="node/21">Abraham Lincoln</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/johnson" data-drupal-link-system-path="node/22">Andrew Johnson</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/grant" data-drupal-link-system-path="node/23">Ulysses S. Grant</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/hayes" data-drupal-link-system-path="node/24">Rutherford B. Hayes</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/garfield" data-drupal-link-system-path="node/25">James A. Garfield</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/arthur" data-drupal-link-system-path="node/26">Chester A. Arthur</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/cleveland" data-drupal-link-system-path="node/27">Grover Cleveland</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/bharrison" data-drupal-link-system-path="node/28">Benjamin Harrison</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/mckinley" data-drupal-link-system-path="node/29">William McKinley</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/roosevelt" data-drupal-link-system-path="node/30">Theodore Roosevelt</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/taft" data-drupal-link-system-path="node/31">William Taft</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/wilson" data-drupal-link-system-path="node/32">Woodrow Wilson</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/harding" data-drupal-link-system-path="node/33">Warren G. Harding</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/coolidge" data-drupal-link-system-path="node/34">Calvin Coolidge</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/hoover" data-drupal-link-system-path="node/35">Herbert Hoover</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/fdroosevelt" data-drupal-link-system-path="node/36">Franklin D. Roosevelt</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/truman" data-drupal-link-system-path="node/37">Harry S. Truman</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/eisenhower" data-drupal-link-system-path="node/38">Dwight D. Eisenhower</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/kennedy" data-drupal-link-system-path="node/39">John F. Kennedy</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/lbjohnson" data-drupal-link-system-path="node/40">Lyndon B. Johnson</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/nixon" data-drupal-link-system-path="node/41">Richard Nixon</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/ford" data-drupal-link-system-path="node/42">Gerald Ford</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/carter" data-drupal-link-system-path="node/2">Jimmy Carter</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/reagan" data-drupal-link-system-path="node/1">Ronald Reagan</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/bush" data-drupal-link-system-path="node/3">George H. W. Bush</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/clinton" data-drupal-link-system-path="node/4">Bill Clinton</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/gwbush" data-drupal-link-system-path="node/5">George W. Bush</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/obama" data-drupal-link-system-path="node/6">Barack Obama</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/trump" data-drupal-link-system-path="node/40196">Donald Trump</a></li>
+
+          </ul>
+          </div>
+      </li>
+
+          <li class="menu-item"><a href="/the-presidency/presidential-speeches" data-drupal-link-system-path="node/5976">Presidential Speeches</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/the-presidency/interviews-with-the-administration" data-drupal-link-system-path="node/5981">Interviews with the Administration</a></li>
+
+          <li class="menu-item"><a href="/the-presidency/secret-white-house-tapes" data-drupal-link-system-path="node/39246">Secret White House Tapes</a></li>
+
+          <li class="menu-item"><a href="/the-presidency/educational-resources" data-drupal-link-system-path="node/5986">Educational Resources</a></li>
+
+          <li class="menu-item"><a href="/issues-policy/the-first-year" title="First Year Project" data-drupal-link-system-path="node/39251">The First Year</a></li>
+
+          </ul>
+          </div>
+      </li>
+
+          <li class="menu-item menu-item--expanded"><a href="/issues-policy" data-drupal-link-system-path="node/5926">Issues &amp; Policy</a>              <div>
+      <ul class="submenu">
+    
+          <li class="menu-item"><a href="/issues-policy/us-domestic-policy" data-drupal-link-system-path="node/5991">U.S. Domestic Policy</a></li>
+
+          <li class="menu-item"><a href="/issues-policy/foreign-policy" data-drupal-link-system-path="node/5996">Foreign Policy</a></li>
+
+          <li class="menu-item"><a href="/issues-policy/economics" data-drupal-link-system-path="node/6001">Economics</a></li>
+
+          <li class="menu-item"><a href="/issues-policy/governance" data-drupal-link-system-path="node/39431">Governance</a></li>
+
+          <li class="menu-item"><a href="/issues-policy/the-first-year" data-drupal-link-system-path="node/39251">The First Year</a></li>
+
+          </ul>
+          </div>
+      </li>
+
+          <li class="menu-item"><a href="/experts" data-drupal-link-system-path="node/5921">Experts</a></li>
+
+          <li class="menu-item menu-item--expanded"><a href="/american-forum" data-drupal-link-system-path="node/5776">American Forum</a>              <div>
+      <ul class="submenu">
+    
+          <li class="menu-item"><a href="/american-forum/join-us" data-drupal-link-system-path="node/39731">Join us for a live taping</a></li>
+
+          <li class="menu-item"><a href="/american-forum/airtimes" data-drupal-link-system-path="node/39371">Airtimes</a></li>
+
+          <li class="menu-item"><a href="/american-forum/about" data-drupal-link-system-path="node/39721">About American Forum</a></li>
+
+          </ul>
+          </div>
+      </li>
+
+          <li class="menu-item menu-item--expanded"><a href="/news-events" data-drupal-link-system-path="node/5931">News &amp; Events</a>              <div>
+      <ul class="submenu">
+    
+          <li class="menu-item"><a href="/news-events/latest-news" data-drupal-link-system-path="node/6081">Latest News</a></li>
+
+          <li class="menu-item"><a href="/news-events/events" data-drupal-link-system-path="node/5786">Events</a></li>
+
+          </ul>
+          </div>
+      </li>
+
+          </ul>
+      
+
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-footer-2-menu" id="block-footer-2" class="footer-nav">
+            
+  <h2 class="visually-hidden">Footer</h2>
+  
+
+        
+              <ul class="menu">
+    
+          <li class="menu-item menu-item--collapsed"><a href="/about" data-drupal-link-system-path="node/39801">About</a></li>
+          <li class="menu-item"><a href="/contact" data-drupal-link-system-path="contact">Contact Us</a></li>
+          <li class="menu-item"><a href="/support" title="Support" data-drupal-link-system-path="node/40191">Miller Center Foundation</a></li>
+          </ul>
+  
+
+
+  </nav>
+<div id="block-footersupportandsocialmedia-2" class="footer-social-media">
+  
+    
+      
+            <p class="support-blurb">Help inform the discussion  </p>
+      
+            <div><a href="/support" class="footer-support-cta">Support the Miller Center</a></div>
+      
+      <ul class="footer-social-bar">
+              <li><a href="https://www.facebook.com/millercenter/" class="facebook">Facebook</a></li>
+              <li><a href="https://twitter.com/Miller_Center" class="twitter">Twitter</a></li>
+              <li><a href="https://www.youtube.com/user/MillerCenterForums" class="youtube">YouTube</a></li>
+          </ul>
+  
+  </div>
+<div id="block-sitebranding-2">
+  
+    
+  	<button class="mobile-trigger hamburger hamburger--3dx" type="button" aria-label="Menu" aria-controls="navigation">
+	  <span class="hamburger-box">
+	    <span class="hamburger-inner"></span>
+	  </span>
+  </button>
+  <div class="logo-container">
+  <span class="uva-logo-wrapper"><a href="http://www.virginia.edu/" title="University of Virginia" class="uva-logo">University of Virginia</a></span>
+      <a class="logo" href="/" title="Home" rel="home">Miller Center</a>
+    </div>
+  <div class="search-trigger"></div>
+</div>
+
+  </div>
+
+  </section>
+
+  <header role="banner" class="main-header">
+      <div class="header-wrapper">
+    <div id="block-miller-branding">
+  
+    
+  	<button class="mobile-trigger hamburger hamburger--3dx" type="button" aria-label="Menu" aria-controls="navigation">
+	  <span class="hamburger-box">
+	    <span class="hamburger-inner"></span>
+	  </span>
+  </button>
+  <div class="logo-container">
+  <span class="uva-logo-wrapper"><a href="http://www.virginia.edu/" title="University of Virginia" class="uva-logo">University of Virginia</a></span>
+      <a class="logo" href="/" title="Home" rel="home">Miller Center</a>
+    </div>
+  <div class="search-trigger"></div>
+</div>
+<div id="block-millersearchblock">
+  
+    
+      
+<form class="miller-search-form" data-drupal-selector="miller-search-form-2" action="/the-presidency/presidential-speeches/march-4-1861-first-inaugural-address" method="post" id="miller-search-form--2" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-textfield form-item-title js-form-item-title">
+      
+        <input placeholder="Search" data-drupal-selector="edit-title" type="text" id="edit-title--2" name="title" value="" size="60" maxlength="128" class="form-text" />
+
+        </div>
+<input data-drupal-selector="edit-submit" type="submit" id="edit-submit--2" name="op" value="Search" class="button js-form-submit form-submit" />
+<input data-drupal-selector="form-uanyngdickhahgpbniwhs-lzi98ns4l-qln18yehqmm" type="hidden" name="form_build_id" value="form-uaNYngDiCKHaHGpBNIwHS-Lzi98nS4L-qln18YehqmM" />
+<input data-drupal-selector="edit-miller-search-form-2" type="hidden" name="form_id" value="miller_search_form" />
+
+</form>
+
+
+  </div>
+<nav role="navigation" aria-labelledby="block-mainnavigation-menu" id="block-mainnavigation" class="main-nav">
+            
+  <h2 class="visually-hidden">Main navigation</h2>
+  
+
+        
+              <ul class="menu">
+    
+          <li class="menu-item menu-item--expanded"><a href="/the-presidency" data-drupal-link-system-path="node/5966">The Presidency</a>              <div>
+      <ul class="submenu">
+    
+          <li class="menu-item menu-item--expanded"><a href="/president" data-drupal-link-system-path="president">U.S. Presidents</a>              <div>
+      <ul class="submenu">
+    
+          <li class="menu-item menu-item--collapsed"><a href="/president/washington" data-drupal-link-system-path="node/43">George Washington</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/adams" data-drupal-link-system-path="node/7">John Adams</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/jefferson" data-drupal-link-system-path="node/8">Thomas Jefferson</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/madison" data-drupal-link-system-path="node/9">James Madison</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/monroe" data-drupal-link-system-path="node/10">James Monroe</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/jqadams" data-drupal-link-system-path="node/11">John Quincy Adams</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/jackson" data-drupal-link-system-path="node/12">Andrew Jackson</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/vanburen" data-drupal-link-system-path="node/13">Martin Van Buren</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/harrison" data-drupal-link-system-path="node/14">William Harrison</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/tyler" data-drupal-link-system-path="node/15">John Tyler</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/polk" data-drupal-link-system-path="node/16">James K. Polk</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/taylor" data-drupal-link-system-path="node/17">Zachary Taylor</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/fillmore" data-drupal-link-system-path="node/18">Millard Fillmore</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/pierce" data-drupal-link-system-path="node/19">Franklin Pierce</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/buchanan" data-drupal-link-system-path="node/20">James Buchanan</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/lincoln" data-drupal-link-system-path="node/21">Abraham Lincoln</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/johnson" data-drupal-link-system-path="node/22">Andrew Johnson</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/grant" data-drupal-link-system-path="node/23">Ulysses S. Grant</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/hayes" data-drupal-link-system-path="node/24">Rutherford B. Hayes</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/garfield" data-drupal-link-system-path="node/25">James A. Garfield</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/arthur" data-drupal-link-system-path="node/26">Chester A. Arthur</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/cleveland" data-drupal-link-system-path="node/27">Grover Cleveland</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/bharrison" data-drupal-link-system-path="node/28">Benjamin Harrison</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/mckinley" data-drupal-link-system-path="node/29">William McKinley</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/roosevelt" data-drupal-link-system-path="node/30">Theodore Roosevelt</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/taft" data-drupal-link-system-path="node/31">William Taft</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/wilson" data-drupal-link-system-path="node/32">Woodrow Wilson</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/harding" data-drupal-link-system-path="node/33">Warren G. Harding</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/coolidge" data-drupal-link-system-path="node/34">Calvin Coolidge</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/hoover" data-drupal-link-system-path="node/35">Herbert Hoover</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/fdroosevelt" data-drupal-link-system-path="node/36">Franklin D. Roosevelt</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/truman" data-drupal-link-system-path="node/37">Harry S. Truman</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/eisenhower" data-drupal-link-system-path="node/38">Dwight D. Eisenhower</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/kennedy" data-drupal-link-system-path="node/39">John F. Kennedy</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/lbjohnson" data-drupal-link-system-path="node/40">Lyndon B. Johnson</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/nixon" data-drupal-link-system-path="node/41">Richard Nixon</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/ford" data-drupal-link-system-path="node/42">Gerald Ford</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/carter" data-drupal-link-system-path="node/2">Jimmy Carter</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/reagan" data-drupal-link-system-path="node/1">Ronald Reagan</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/bush" data-drupal-link-system-path="node/3">George H. W. Bush</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/clinton" data-drupal-link-system-path="node/4">Bill Clinton</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/gwbush" data-drupal-link-system-path="node/5">George W. Bush</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/obama" data-drupal-link-system-path="node/6">Barack Obama</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/president/trump" data-drupal-link-system-path="node/40196">Donald Trump</a></li>
+
+          </ul>
+          </div>
+      </li>
+
+          <li class="menu-item"><a href="/the-presidency/presidential-speeches" data-drupal-link-system-path="node/5976">Presidential Speeches</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/the-presidency/interviews-with-the-administration" data-drupal-link-system-path="node/5981">Interviews with the Administration</a></li>
+
+          <li class="menu-item"><a href="/the-presidency/secret-white-house-tapes" data-drupal-link-system-path="node/39246">Secret White House Tapes</a></li>
+
+          <li class="menu-item"><a href="/the-presidency/educational-resources" data-drupal-link-system-path="node/5986">Educational Resources</a></li>
+
+          <li class="menu-item"><a href="/issues-policy/the-first-year" title="First Year Project" data-drupal-link-system-path="node/39251">The First Year</a></li>
+
+          </ul>
+          </div>
+      </li>
+
+          <li class="menu-item menu-item--expanded"><a href="/issues-policy" data-drupal-link-system-path="node/5926">Issues &amp; Policy</a>              <div>
+      <ul class="submenu">
+    
+          <li class="menu-item"><a href="/issues-policy/us-domestic-policy" data-drupal-link-system-path="node/5991">U.S. Domestic Policy</a></li>
+
+          <li class="menu-item"><a href="/issues-policy/foreign-policy" data-drupal-link-system-path="node/5996">Foreign Policy</a></li>
+
+          <li class="menu-item"><a href="/issues-policy/economics" data-drupal-link-system-path="node/6001">Economics</a></li>
+
+          <li class="menu-item"><a href="/issues-policy/governance" data-drupal-link-system-path="node/39431">Governance</a></li>
+
+          <li class="menu-item"><a href="/issues-policy/the-first-year" data-drupal-link-system-path="node/39251">The First Year</a></li>
+
+          </ul>
+          </div>
+      </li>
+
+          <li class="menu-item"><a href="/experts" data-drupal-link-system-path="node/5921">Experts</a></li>
+
+          <li class="menu-item menu-item--expanded"><a href="/american-forum" data-drupal-link-system-path="node/5776">American Forum</a>              <div>
+      <ul class="submenu">
+    
+          <li class="menu-item"><a href="/american-forum/join-us" data-drupal-link-system-path="node/39731">Join us for a live taping</a></li>
+
+          <li class="menu-item"><a href="/american-forum/airtimes" data-drupal-link-system-path="node/39371">Airtimes</a></li>
+
+          <li class="menu-item"><a href="/american-forum/about" data-drupal-link-system-path="node/39721">About American Forum</a></li>
+
+          </ul>
+          </div>
+      </li>
+
+          <li class="menu-item menu-item--expanded"><a href="/news-events" data-drupal-link-system-path="node/5931">News &amp; Events</a>              <div>
+      <ul class="submenu">
+    
+          <li class="menu-item"><a href="/news-events/latest-news" data-drupal-link-system-path="node/6081">Latest News</a></li>
+
+          <li class="menu-item"><a href="/news-events/events" data-drupal-link-system-path="node/5786">Events</a></li>
+
+          </ul>
+          </div>
+      </li>
+
+          </ul>
+      
+
+
+  </nav>
+<div id="block-sharethis">
+  
+    
+      <div class="sharethis-wrapper"><span st_url="https://millercenter.org/node/2091" st_title="March 4, 1861: First Inaugural Address" class="st_facebook_custom" displayText="facebook"></span>
+<span st_url="https://millercenter.org/node/2091" st_title="March 4, 1861: First Inaugural Address" class="st_twitter_custom" displayText="twitter"></span>
+<span st_url="https://millercenter.org/node/2091" st_title="March 4, 1861: First Inaugural Address" class="st_linkedin_custom" displayText="linkedin"></span>
+<span st_url="https://millercenter.org/node/2091" st_title="March 4, 1861: First Inaugural Address" class="st_email_custom" displayText="email"></span>
+</div>
+  </div>
+
+    <div class="share-trigger"></div>
+  </div>
+
+    <div class="miller-title-wrapper">
+      <h3 class="media--title">Presidential Speeches</h3>
+    </div>
+  </header>
+  
+  
+
+  
+
+  <main role="main">
+    <a id="main-content" tabindex="-1"></a>      <div class="search-results--filter">
+  	<div class="search-results--filter-inner">
+    	
+
+    </div>
+  </div>
+
+
+    
+
+    <div class="layout-content">
+      <div id="block-miller-page-title--2" class="miller-title-wrapper">
+        <div class="share-trigger-mobile"></div>
+        <h2 class="page-title">Presidential Speeches</h2>
+      </div>
+        <div>
+    <div id="block-miller-page-title" class="miller-title-wrapper">
+  
+    
+      
+  <h1><span>March 4, 1861: First Inaugural Address</span>
+</h1>
+
+
+    <div class="share-trigger-mobile"></div>
+</div>
+<div id="block-mainpagecontent">
+  
+    
+      <article role="article" class="presidential-speech">
+
+  
+    
+
+  <div class="ps-container video-container">
+    <div class="presidential-speeches--sidebar">
+      
+<div  class="about-this-episode">
+    <h3>About this speech</h3>
+      
+<div  class="about-this-episode--inner">
+      
+            <p class="president-name">Abraham Lincoln</p>
+      
+            <p class="episode-date">March 04, 1861</p>
+      
+  <div class="speech-location-container">
+    <span class="speech-label">Location</span>
+              <span class="speech-loc">National Archives</span>
+          </div>
+
+            <div class="about-sidebar--intro"><p>President Lincoln uses his first inaugural address to attempt to reassure the Southern states that he will protect their interests regarding slavery. He warns, however, that any attempt to secede from the Union will be viewed as a violation of law and met with appropriate consequences.</p></div>
+      
+  </div>
+  </div>
+    </div>
+
+    <div class="presidential-speeches--body-wrapper">
+     <a href="/the-presidency/presidential-speeches" class="back-to-listing--cta">Presidential Speeches</a> <span class="nav-separator">|</span> <label class="presidential-speeches--label">Abraham Lincoln Presidency</label>
+      <h2 class="presidential-speeches--title"><span>March 4, 1861: First Inaugural Address</span>
+</h2>
+      
+<div  class="presidential-speeches--body">
+      
+  </div>
+
+      <div class="media-assets--container">
+                      </div>
+      
+            <div class="view-transcript"><h3>Transcript</h3><p>&nbsp;</p><p>Fellow citizens of the United States:</p><p>In compliance with a custom as old as the government itself, I appear before you to address you briefly, and to take in your presence the oath prescribed by the Constitution of the United States to be taken by the President "before he enters on the execution of his office."</p><p>I do not consider it necessary at present for me to discuss those matters of administration about which there is no special anxiety or excitement.</p><p>Apprehension seems to exist among the people of the Southern States that by the accession of a Republican administration their property and their peace and personal security are to be endangered. There has never been any reasonable cause for such apprehension. Indeed, the most ample evidence to the contrary has all the while existed and been open to their inspection. It is found in nearly all the published speeches of him who now addresses you. I do but quote from one of those speeches when I declare that "I have no purpose, directly or indirectly, to interfere with the institution of slavery in the States where it exists. I beheve I have no lawful right to do so, and I have no inclination to do so." Those who nominated and elected me did so with full knowledge that I had made this and many similar declarations, and had never recanted them. And, more than this, they placed in the platform for my acceptance, and as a law to themselves and to me, the clear and emphatic resolution which I now read:</p><p>Resolved, That the maintenance inviolate of the rights of the States, and especially the right of each State to order and control its own domestic institutions according to its own judgment exclusively, is essential to that balance of power on which the perfection and endurance of our political fabric depend, and we denounce the lawless invasion by armed force of the soil of any State or Territory, no matter under what pretext, as among the gravest of crimes.</p><p>I now reiterate these sentiments; and, in doing so, I only press upon the public attention the most conclusive evidence of which the case is susceptible, that the property, peace, and security of no section are to be in any wise endangered by the now incoming administration. I add, too, that all the protection which, consistently with the Constitution and the laws, can be given, will be cheerfully given to all the States when lawfully demanded, for whatever cause&mdash;as cheerfully to one section as to another.</p><p>There is much controversy about the delivering up of fugitives from service or labor. The clause I now read is as plainly written in the Constitution as any other of its provisions:</p><p>No person held to service or labor in one State, under the laws thereof, escaping into another, shall in consequence of any law or regulation therein be discharged from such service or labor, but shall be delivered up on claim of the party to whom such service or labor may be due.</p><p>It is scarcely questioned that this provision was intended by those who made it for the reclaiming of what we call fugitive slaves; and the intention of the lawgiver is the law. All members of Congress swear their support to the whole Constitution&mdash;to this provision as much as to any other. To the proposition, then, that slaves whose cases come within the terms of this clause "shall be delivered up," their oaths are unanimous. Now, if they would make the effort in good temper, could they not with nearly equal unanimity frame and pass a law by means of which to keep good that unanimous oath?</p><p>There is some difference of opinion whether this clause should be enforced by national or by State authority; but surely that difference is not a very material one. If the slave is to be surrendered, it can be of but little consequence to him or to others by which authority it is done. And should anyone in any case be content that his oath shall go unkept on a merely unsubstantial controversy as to how it shall be kept?</p><p>Again, in any law upon this subject, ought not all the safeguards of liberty known in civilized and humane jurisprudence to be introduced, so that a free man be not, in any case, surrendered as a slave? And might it not be well at the same time to provide by law for the enforcement of that clause in the Constitution which guarantees that "the citizen of each State shall be entitled to all privileges and immunities of citizens in the several States."</p><p>I take the official oath to-day with no mental reservations, and with no purpose to construe the Constitution or laws by any hypercritical rules. And while I do not choose now to specify particular acts of Congress as proper to be enforced, I do suggest that it will be much safer for all, both in official and private stations, to conform to and abide by all those acts which stand unrepealed, than to violate any of them, trusting to find impunity in having them held to be unconstitutional.</p><p>It is seventy-two years since the first inauguration of a President under our National Constitution. During that period fifteen different and greatly distinguished citizens have, in succession, administered the executive branch of the government. They have conducted it through many perils, and generally with great success. Yet, with all this scope of precedent, I now enter upon the same task for the brief constitutional term of four years under great and peculiar difficulty. A disruption of the Federal Union, heretofore only menaced, is now formidably attempted.</p><p>I hold that, in contemplation of universal law and of the Constitution, the Union of these States is perpetual. Perpetuity is implied, if not expressed, in the fundamental law of all national governments. It is safe to assert that no government proper ever had a provision in its organic law for its own termination. Continue to execute all the express provisions of our National Constitution, and the Union will endure forever&mdash;it being impossible to destroy it except by some action not provided for in the instrument itself.</p><p>Again, if the United States be not a government proper, but an association of States in the nature of contract merely, can it, as a contract, be peaceably unmade by less than all the parties who made it? One party to a contract may violate it&mdash;break it, so to speak; but does it not require all to lawfully rescind it?</p><p>Descending from these general principles, we find the proposition that, in legal contemplation the Union is perpetual confirmed by the history of the Union itself. The Union is much older than the Constitution. It was formed, in fact, by the Articles of Association in 1774. It was matured and continued by the Declaration of Independence in 1776. It was further matured, and the faith of all the then thirteen States expressly plighted and engaged that it should be perpetual, by the Articles of Confederation in 1778. And, finally, in 1787 one of the declared objects for ordaining and establishing the Constitution was "to form a more perfect Union."</p><p>But if the destruction of the Union by one or by a part only of the States be lawfully possible, the Union is less perfect than before the Constitution, having lost the vital element of perpetuity.</p><p>It follows from these views that no State upon its own mere motion can lawfully get out of the Union; that resolves and ordinances to that effect are legally void; and that acts of violence, within any State or States, against the authority of the United States, are insurrectionary or revolutionary, according to circumstances.</p><p>I therefore consider that, in view of the Constitution and the laws, the Union is unbroken; and to the extent of my ability I shall take care, as the Constitution itself expressly enjoins upon me, that the laws of the Union be faithfully executed in all the States. Doing this I deem to be only a simple duty on my part; and I shall perform it so far as practicable, unless my rightful masters, the American people, shall withhold the requisite means, or in some authoritative manner direct the contrary. I trust this will not be regarded as a menace, but only as the declared purpose of the Union that it will constitutionally defend and maintain itself.</p><p>In doing this there needs to be no bloodshed or violence; and there shall be none, unless it be forced upon the national authority. The power confided to me will be used to hold, occupy, and possess the property and places belonging to the government, and to collect the duties and imposts; but beyond what may be necessary for these objects, there will be no invasion, no using of force against or among the people anywhere. Where hostility to the United States, in any interior locality, shall be so great and universal as to prevent competent resident citizens from holding the Federal offices, there will be no attempt to force obnoxious strangers among the people for that object. While the strict legal right may exist in the government to enforce the exercise of these offices, the attempt to do so would be so irritating, and so nearly impracticable withal, that I deem it better to forego for the time the uses of such offices.</p><p>The mails, unless repelled, will continue to be furnished in all parts of the Union. So far as possible, the people everywhere shall have that sense of perfect security which is most favorable to calm thought and reflection. The course here indicated will be followed unless current events and experience shall show a modification or change to be proper, and in every case and exigency my best discretion will be exercised according to circumstances actually existing, and with a view and a hope of a peaceful solution of the national troubles and the restoration of fraternal sympathies and affections.</p><p>That there are persons in one section or another who seek to destroy the Union at all events, and are glad of any pretext to do it, I will neither affirm nor deny; but if there be such, I need address no word to them. To those, however, who really love the Union may I not speak?</p><p>Before entering upon so grave a matter as the destruction of our national fabric, with all its benefits, its memories, and its hopes, would it not be wise to ascertain precisely why we do it? Will you hazard so desperate a step while there is any possibility that any portion of the ills you fly from have no real existence? Will you, while the certain ills you fly to are greater than all the real ones you fly from&mdash;will you risk the commission of so fearful a mistake?</p><p>All profess to be content in the Union if all constitutional rights can be maintained. Is it true, then, that any right, plainly written in the Constitution, has been denied? I think not. Happily the human mind is so constituted that no party can reach to the audacity of doing this. Think, if you can, of a single instance in which a plainly written provision of the Constitution has ever been denied. If by the mere force of numbers a majority should deprive a minority of any clearly written constitutional right, it might, in a moral point of view, justify revolution&mdash;certainly would if such a right were a vital one. But such is not our case. All the vital rights of minorities and of individuals are so plainly assured to them by affirmations and negations, guarantees and prohibitions, in the Constitution, that controversies never arise concerning them. But no organic law can ever be framed with a provision specifically applicable to every question which may occur in practical administration. No foresight can anticipate, nor any document of reasonable length contain, express provisions for all possible questions. Shall fugitives from labor be surrendered by national or by State authority? The Constitution does not expressly say. May Congress prohibit slavery in the Territories? The Constitution does not expressly say. Must Congress protect slavery in the Territories? The Constitution does not expressly say.</p><p>From questions of this class spring all our constitutional controversies, and we divide upon them into majorities and minorities. If the minority will not acquiesce, the majority must, or the government must cease. There is no other alternative; for continuing the government is acquiescence on one side or the other.</p><p>If a minority in such case will secede rather than acquiesce, they make a precedent which in turn will divide and ruin them; for a minority of their own will secede from them whenever a majority refuses to be controlled by such minority. For instance, why may not any portion of a new confederacy a year or two hence arbitrarily secede again, precisely as portions of the present Union now claim to secede from it? All who cherish disunion sentiments are now being educated to the exact temper of doing this.</p><p>Is there such perfect identity of interests among the States to compose a new Union, as to produce harmony only, and prevent renewed secession?</p><p>Plainly, the central idea of secession is the essence of anarchy. A majority held in restraint by constitutional checks and limitations, and always changing easily with deliberate changes of popular opinions and sentiments, is the only true sovereign of a free people. Whoever rejects it does, of necessity, fly to anarchy or to despotism. Unanimity is impossible; the rule of a minority, as a permanent arrangement, is wholly inadmissible; so that, rejecting the majority principle, anarchy or despotism in some form is all that is left.</p><p>I do not forget the position, assumed by some, that constitutional questions are to be decided by the Supreme Court; nor do I deny that such decisions must be binding, in any case, upon the parties to a suit, as to the object of that suit, while they are also entitled to very high respect and consideration in all parallel cases by all other departments of the government. And while it is obviously possible that such decision may be erroneous in any given case, still the evil effect following it, being limited to that particular case, with the chance that it may be overruled and never become a precedent for other cases, can better be borne than could the evils of a different practice. At the same time, the candid citizen must confess that if the policy of the government, upon vital questions affecting the whole people, is to be irrevocably fixed by decisions of the Supreme Court, the instant they are made, in ordinary litigation between parties in personal actions, the people will have ceased to be their own rulers, having to that extent practically resigned their government into the hands of that eminent tribunal. Nor is there in this view any assault upon the court or the judges. It is a duty from which they may not shrink to decide cases properly brought before them, and it is no fault of theirs if others seek to turn their decisions to political purposes.</p><p>One section of our country believes slavery is right, and ought to be extended, while the other believes it is wrong, and ought not to be extended. This is the only substantial dispute. The fugitive-slave clause of the Constitution, and the law for the suppression of the foreign slave-trade, are each as well enforced, perhaps, as any law can ever be in a community where the moral sense of the people imperfectly supports the law itself. The great body of the people abide by the dry legal obligation in both cases, and a few break over in each. This, I think, cannot be perfectly cured; and it would be worse in both cases after the separation of the sections than before. The foreign slave-trade, now imperfectly suppressed, would be ultimately revived, without restriction, in one section, while fugitive slaves, now only partially surrendered, would not be surrendered at all by the other.</p><p>Physically speaking, we cannot separate. We cannot remove our respective sections from each other, nor build an impassable wall between them. A husband and wife may be divorced, and go out of the presence and beyond the reach of each other; but the different parts of our country cannot do this. They cannot but remain face to face, and intercourse, either amicable or hostile, must continue between them. Is it possible, then, to make that intercourse more advantageous or more satisfactory after separation than before? Can aliens make treaties easier than friends can make laws? Can treaties be more faithfully enforced between aliens than laws can among friends? Suppose you go to war, you cannot fight always; and when, after much loss on both sides, and no gain on either, you cease fighting, the identical old questions as to terms of intercourse are again upon you.</p><p>This country, with its institutions, belongs to the people who inhabit it. Whenever they shall grow weary of the existing government, they can exercise their constitutional right of amending it, or their revolutionary right to dismember or overthrow it. I cannot be ignorant of the fact that many worthy and patriotic citizens are desirous of having the National Constitution amended. While I make no recommendation of amendments, I fully recognize the rightful authority of the people over the whole subject, to be exercised in either of the modes prescribed in the instrument itself; and I should, under existing circumstances, favor rather than oppose a fair opportunity being afforded the people to act upon it.</p><p>I will venture to add that to me the convention mode seems preferable, in that it allows amendments to originate with the people themselves, instead of only permitting them to take or reject propositions originated by others not especially chosen for the purpose, and which might not be precisely such as they would wish to either accept or refuse. I understand a proposed amendment to the Constitution&mdash;which amendment, however, I have not seen&mdash;has passed Congress, to the effect that the Federal Government shall never interfere with the domestic institutions of the States, including that of persons held to service. To avoid misconstruction of what I have said, I depart from my purpose not to speak of particular amendments so far as to say that, holding such a provision to now be implied constitutional law, I have no objection to its being made express and irrevocable.</p><p>The chief magistrate derives all his authority from the people, and they have conferred none upon him to fix terms for the separation of the States. The people themselves can do this also if they choose; but the executive, as such, has nothing to do with it. His duty is to administer the present government, as it came to his hands, and to transmit it, unimpaired by him, to his successor.</p><p>Why should there not be a patient confidence in the ultimate justice of the people? Is there any better or equal hope in the world? In our present differences is either party without faith of being in the right? If the Almighty Ruler of Nations, with his eternal truth and justice, be on your side of the North, or on yours of the South, that truth and that justice will surely prevail by the judgment of this great tribunal of the American people.</p><p>By the frame of the government under which we live, this same people have wisely given their public servants but little power for mischief; and have, with equal wisdom, provided for the return of that little to their own hands at very short intervals.</p><p>While the people retain their virtue and vigilance, no administration, by any extreme of wickedness or folly, can very seriously injure the government in the short space of four years.</p><p>My countrymen, one and all, think calmly and well upon this whole subject. Nothing valuable can be lost by taking time. If there be an object to hurry any of you in hot haste to a step which you would never take deliberately, that object will be frustrated by taking time; but no good object can be frustrated by it. Such of you as are now dissatisfied, still have the old Constitution unimpaired, and, on the sensitive point, the laws of your own framing under it; while the new administration will have no immediate power, if it would, to change either. If it were admitted that you who are dissatisfied hold the right side in the dispute, there still is no single good reason for precipitate action. Intelligence, patriotism, Christianity, and a firm reliance on Him who has never yet forsaken this favored land, are still competent to adjust in the best way all our present difficulty.</p><p>In your hands, my dissatisfied fellow-countrymen, and not in mine, is the momentous issue of civil war. The government will not assail you. You can have no conflict without being yourselves the aggressors. You have no oath registered in heaven to destroy the government, while I shall have the most solemn one to "preserve, protect, and defend it."</p><p>I am loath to close. We are not enemies, but friends. We must not be enemies. Though passion may have strained, it must not break our bonds of affection. The mystic chords of memory, stretching from every battle-field and patriot grave to every living heart and hearthstone all over this broad land, will yet swell the chorus of the Union when again touched, as surely they will be, by the better angels of our nature.</p></div>
+      
+
+      <div class="prev-next">
+        <div class="prev">
+          <div class="views-element-container"><div class="js-view-dom-id-b2f376558e76576b03a1194d9857760af58bb1dd9bef54db4d34b0cda2424951">
+  
+  
+  
+
+      <header>
+      Previous
+    </header>
+  
+  <div class="rows-wrapper">
+
+    
+    
+
+        <div class="views-row">
+    <div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/february-11-1861-farewell-address" hreflang="en">February 11, 1861: Farewell Address</a></span></div>
+  </div>
+
+    
+    
+
+    
+    
+
+  </div>
+
+  
+  
+</div>
+</div>
+
+        </div>
+        <div class="next">
+          <div class="views-element-container"><div class="js-view-dom-id-2355f31435d7c463979957e4d9cd36f53fd27d992880047f90478cf28a70e114">
+  
+  
+  
+
+      <header>
+      Next
+    </header>
+  
+  <div class="rows-wrapper">
+
+    
+    
+
+        <div class="views-row">
+    <div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/july-4-1861-july-4th-message-congress" hreflang="en">July 4, 1861: July 4th Message to Congress</a></span></div>
+  </div>
+
+    
+    
+
+    
+    
+
+  </div>
+
+  
+  
+</div>
+</div>
+
+        </div>
+      </div>
+      <div id="more-media">
+                  <h3>More Abraham Lincoln speeches</h3>
+          <a href="/the-presidency/presidential-speeches?field_president_target_id[16]=16" class="btn">View all Abraham Lincoln speeches</a>
+                <div class="views-element-container"><div class="js-view-dom-id-f1410ae074dbc1a64fcb610b0d6d3bfec9a5cda33604aa3c6248202f2b6486cf">
+  
+  
+  
+
+  
+  <div class="rows-wrapper">
+
+    
+    
+
+        <div class="views-row">
+    <div class="speech-row-wrapper">
+  <section class="speech-text-column">
+      <a href="/the-presidency/presidential-speeches/july-4-1861-july-4th-message-congress" hreflang="en">July 4, 1861: July 4th Message to Congress</a>
+  </section>
+  <section class="speech-icons-column">
+                    <span class="media-transcript">transcript icon</span>
+    </section>
+
+</div>
+
+  </div>
+    <div class="views-row">
+    <div class="speech-row-wrapper">
+  <section class="speech-text-column">
+      <a href="/the-presidency/presidential-speeches/december-3-1861-first-annual-message" hreflang="en">December 3, 1861: First Annual Message</a>
+  </section>
+  <section class="speech-icons-column">
+                    <span class="media-transcript">transcript icon</span>
+    </section>
+
+</div>
+
+  </div>
+    <div class="views-row">
+    <div class="speech-row-wrapper">
+  <section class="speech-text-column">
+      <a href="/the-presidency/presidential-speeches/december-1-1862-second-annual-message" hreflang="en">December 1, 1862: Second Annual Message</a>
+  </section>
+  <section class="speech-icons-column">
+                    <span class="media-transcript">transcript icon</span>
+    </section>
+
+</div>
+
+  </div>
+    <div class="views-row">
+    <div class="speech-row-wrapper">
+  <section class="speech-text-column">
+      <a href="/the-presidency/presidential-speeches/january-1-1863-emancipation-proclamation" hreflang="en">January 1, 1863: Emancipation Proclamation</a>
+  </section>
+  <section class="speech-icons-column">
+                    <span class="media-transcript">transcript icon</span>
+    </section>
+
+</div>
+
+  </div>
+    <div class="views-row">
+    <div class="speech-row-wrapper">
+  <section class="speech-text-column">
+      <a href="/the-presidency/presidential-speeches/august-26-1863-public-letter-james-conkling" hreflang="en">August 26, 1863: Public Letter to James Conkling</a>
+  </section>
+  <section class="speech-icons-column">
+                    <span class="media-transcript">transcript icon</span>
+    </section>
+
+</div>
+
+  </div>
+    <div class="views-row">
+    <div class="speech-row-wrapper">
+  <section class="speech-text-column">
+      <a href="/the-presidency/presidential-speeches/november-19-1863-gettysburg-address" hreflang="en">November 19, 1863: Gettysburg Address</a>
+  </section>
+  <section class="speech-icons-column">
+                    <span class="media-transcript">transcript icon</span>
+    </section>
+
+</div>
+
+  </div>
+    <div class="views-row">
+    <div class="speech-row-wrapper">
+  <section class="speech-text-column">
+      <a href="/the-presidency/presidential-speeches/december-8-1863-third-annual-message" hreflang="en">December 8, 1863: Third Annual Message</a>
+  </section>
+  <section class="speech-icons-column">
+                    <span class="media-transcript">transcript icon</span>
+    </section>
+
+</div>
+
+  </div>
+    <div class="views-row">
+    <div class="speech-row-wrapper">
+  <section class="speech-text-column">
+      <a href="/the-presidency/presidential-speeches/december-6-1864-fourth-annual-message" hreflang="en">December 6, 1864: Fourth Annual Message</a>
+  </section>
+  <section class="speech-icons-column">
+                    <span class="media-transcript">transcript icon</span>
+    </section>
+
+</div>
+
+  </div>
+    <div class="views-row">
+    <div class="speech-row-wrapper">
+  <section class="speech-text-column">
+      <a href="/the-presidency/presidential-speeches/march-4-1865-second-inaugural-address" hreflang="en">March 4, 1865: Second Inaugural Address</a>
+  </section>
+  <section class="speech-icons-column">
+                    <span class="media-transcript">transcript icon</span>
+    </section>
+
+</div>
+
+  </div>
+
+    
+    
+
+    
+    
+
+  </div>
+
+  
+  
+</div>
+</div>
+
+      </div>
+    </div>
+  </div>
+</article>
+
+  </div>
+
+  </div>
+
+    </div>
+  </main>
+
+  
+      <footer role="contentinfo" class="main-footer">
+        <div class="footer-inner">
+    <div id="block-sitebranding">
+  
+    
+  	<button class="mobile-trigger hamburger hamburger--3dx" type="button" aria-label="Menu" aria-controls="navigation">
+	  <span class="hamburger-box">
+	    <span class="hamburger-inner"></span>
+	  </span>
+  </button>
+  <div class="logo-container">
+  <span class="uva-logo-wrapper"><a href="http://www.virginia.edu/" title="University of Virginia" class="uva-logo">University of Virginia</a></span>
+      <a class="logo" href="/" title="Home" rel="home">Miller Center</a>
+    </div>
+  <div class="search-trigger"></div>
+</div>
+<nav role="navigation" aria-labelledby="block-mainnavigation-2-menu" id="block-mainnavigation-2" class="main-nav">
+            
+  <h2 class="visually-hidden">Main navigation</h2>
+  
+
+        
+              <ul class="menu">
+    
+          <li class="menu-item menu-item--collapsed"><a href="/the-presidency" data-drupal-link-system-path="node/5966">The Presidency</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/issues-policy" data-drupal-link-system-path="node/5926">Issues &amp; Policy</a></li>
+
+          <li class="menu-item"><a href="/experts" data-drupal-link-system-path="node/5921">Experts</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/american-forum" data-drupal-link-system-path="node/5776">American Forum</a></li>
+
+          <li class="menu-item menu-item--collapsed"><a href="/news-events" data-drupal-link-system-path="node/5931">News &amp; Events</a></li>
+
+          </ul>
+      
+
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-footer-menu" id="block-footer" class="footer-nav">
+            
+  <h2 class="visually-hidden">Footer</h2>
+  
+
+        
+              <ul class="menu">
+    
+          <li class="menu-item menu-item--collapsed"><a href="/about" data-drupal-link-system-path="node/39801">About</a></li>
+          <li class="menu-item"><a href="/contact" data-drupal-link-system-path="contact">Contact Us</a></li>
+          <li class="menu-item"><a href="/support" title="Support" data-drupal-link-system-path="node/40191">Miller Center Foundation</a></li>
+          </ul>
+  
+
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-externalprojects-menu" id="block-externalprojects">
+      
+  <h2 id="block-externalprojects-menu">External Projects</h2>
+  
+
+        
+              <ul class="menu">
+    
+          <li class="menu-item"><a href="http://presidentialcollections.org/">Connecting Presidential Collections</a></li>
+          </ul>
+  
+
+
+  </nav>
+<div id="block-footersupportandsocialmedia" class="footer-social-media">
+  
+    
+      
+            <p class="support-blurb">Help inform the discussion  </p>
+      
+            <div><a href="/support" class="footer-support-cta">Support the Miller Center</a></div>
+      
+      <ul class="footer-social-bar">
+              <li><a href="https://www.facebook.com/millercenter/" class="facebook">Facebook</a></li>
+              <li><a href="https://twitter.com/Miller_Center" class="twitter">Twitter</a></li>
+              <li><a href="https://www.youtube.com/user/MillerCenterForums" class="youtube">YouTube</a></li>
+          </ul>
+  
+  </div>
+
+  </div>
+
+    </footer>
+  
+      <footer role="contentinfo" class="sub-footer">
+        <div class="footer-inner">
+    <div id="block-footernewslettersubscribecta" class="footer-subscribe-cta">
+  
+    
+      
+            <a href="http://forms.hoosonline.virginia.edu/s/1535/16-uva/index.aspx?sid=1535&amp;gid=16&amp;pgid=9982&amp;cid=17637" class="subscribe">Subscribe</a>
+      
+  </div>
+<div id="block-footercopyrightline">
+  
+    
+      
+            <div><p>© Copyright 2017. Rector and Visitors of the University of Virginia</p>
+</div>
+      
+  </div>
+<div id="block-uvalogo">
+  
+    
+      
+            <div><a href="http://www.virginia.edu/" class="uva-logo">University of Virginia</a></div>
+      
+  </div>
+
+  </div>
+
+    </footer>
+  
+</div>
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/2091","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","ajaxPageState":{"libraries":"core\/html5shiv,dp_formatters\/expandable-text,dp_formatters\/justwave-player,extlink\/drupal.extlink,google_analytics\/google_analytics,miller\/ableplayer,miller\/formstone,miller\/global-styling,miller\/swiper,sharethis\/sharethis,sharethis\/sharethispickerexternalbuttons,sharethis\/sharethispickerexternalbuttonsws,system\/base,views\/views.module","theme":"miller","theme_token":null},"ajaxTrustedUrl":{"form_action_cc611e1d":true},"data":{"extlink":{"extTarget":true,"extClass":"0","extLabel":"","extImgClass":false,"extSubdomains":false,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"","mailtoClass":"0","mailtoLabel":""}},"google_analytics":{"trackOutbound":true,"trackMailto":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"field_group":{"html_element":{"mode":"default","context":"view","settings":{"label":"Episode Inner","element":"div","show_label":false,"label_element":"h3","attributes":"","effect":"none","speed":"fast","id":"","classes":"about-this-episode--inner"}}},"dp_formatters":{"justWave":{"callback":"\/dp_formatters\/waveform-generate","temp":"\/mnt\/www\/html\/uvamiller\/docroot\/sites\/default\/files\/waves\/"}},"sharethis":{"publisher":"dr-30c28291-4340-7810-8ae3-7cac17149c19","version":"5x","doNotCopy":true,"hashAddressBar":false,"doNotHash":true,"onhover":false},"user":{"uid":0,"permissionsHash":"4378804f3977b9a71457fba6849db2c3fc7eb243792d1602a29f4c6c8f0324ec"}}</script>
+<script src="/sites/default/files/js/js__z0CqQolh1gGC6I-McoYcMnmOWa0TB9JN2oWqka9ilg.js"></script>
+<script src="https://ws.sharethis.com/button/buttons.js"></script>
+<script src="/sites/default/files/js/js_rf0P8R_tHtzUUX-C8hjfA3Ib8r4Zwwqdf3C7RhB7pWw.js"></script>
+
+
+    <!-- start Chartbeat -->
+    <script>var _sf_async_config={};_sf_async_config.uid=15666;_sf_async_config.domain="millercenter.org";(function(){function loadChartbeat(){window._sf_endpt=(new Date()).getTime();var e=document.createElement('script');e.setAttribute('language','javascript');e.setAttribute('type','text/javascript');e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js');document.body.appendChild(e);}var oldonload=window.onload;window.onload=(typeof window.onload!='function')?loadChartbeat:function(){oldonload();loadChartbeat();};})();</script>
+    <!-- end Chartbeat -->
+    
+  </body>
+
+</html>
