@@ -1,29 +1,27 @@
-President: George W. Bush
+President: George W. Bush 
 
-      <p>Good evening. Today, our fellow citizens, our way of life, our very freedom came under attack in a series of deliberate and deadly terrorist acts. The victims were in airplanes, or in their offices; secretaries, businessmen and women, military and federal workers; moms and dads, friends and neighbors. Thousands of lives were suddenly ended by evil, despicable acts of terror.</p>
+Good evening. Today, our fellow citizens, our way of life, our very freedom came under attack in a series of deliberate and deadly terrorist acts. The victims were in airplanes, or in their offices; secretaries, businessmen and women, military and federal workers; moms and dads, friends and neighbors. Thousands of lives were suddenly ended by evil, despicable acts of terror.
 
-<p>The pictures of airplanes flying into buildings, fires burning, huge structures collapsing, have filled us with disbelief, terrible sadness, and a quiet, unyielding anger. These acts of mass murder were intended to frighten our nation into chaos and retreat. But they have failed; our country is strong.</p>
+The pictures of airplanes flying into buildings, fires burning, huge structures collapsing, have filled us with disbelief, terrible sadness, and a quiet, unyielding anger. These acts of mass murder were intended to frighten our nation into chaos and retreat. But they have failed; our country is strong.
 
-<p>A great people has been moved to defend a great nation. Terrorist attacks can shake the foundations of our biggest buildings, but they cannot touch the foundation of America. These acts shattered steel, but they cannot dent the steel of American resolve.</p>
+A great people has been moved to defend a great nation. Terrorist attacks can shake the foundations of our biggest buildings, but they cannot touch the foundation of America. These acts shattered steel, but they cannot dent the steel of American resolve.
 
-<p>America was targeted for attack because we're the brightest beacon for freedom and opportunity in the world. And no one will keep that light from shining.</p>
+America was targeted for attack because we're the brightest beacon for freedom and opportunity in the world. And no one will keep that light from shining.
 
-<p>Today, our nation saw evil, the very worst of human nature. And we responded with the best of America -- with the daring of our rescue workers, with the caring for strangers and neighbors who came to give blood and help in any way they could.</p>
+Today, our nation saw evil, the very worst of human nature. And we responded with the best of America -- with the daring of our rescue workers, with the caring for strangers and neighbors who came to give blood and help in any way they could.
 
-<p>Immediately following the first attack, I implemented our government's emergency response plans. Our military is powerful, and it's prepared. Our emergency teams are working in New York City and Washington, D.C. to help with local rescue efforts.</p>
+Immediately following the first attack, I implemented our government's emergency response plans. Our military is powerful, and it's prepared. Our emergency teams are working in New York City and Washington, D.C. to help with local rescue efforts.
 
-<p>Our first priority is to get help to those who have been injured, and to take every precaution to protect our citizens at home and around the world from further attacks.</p>
+Our first priority is to get help to those who have been injured, and to take every precaution to protect our citizens at home and around the world from further attacks.
 
-<p>The functions of our government continue without interruption. Federal agencies in Washington which had to be evacuated today are reopening for essential personnel tonight, and will be open for business tomorrow. Our financial institutions remain strong, and the American economy will be open for business, as well.</p>
+The functions of our government continue without interruption. Federal agencies in Washington which had to be evacuated today are reopening for essential personnel tonight, and will be open for business tomorrow. Our financial institutions remain strong, and the American economy will be open for business, as well.
 
-<p>The search is underway for those who are behind these evil acts. I've directed the full resources of our intelligence and law enforcement communities to find those responsible and to bring them to justice. We will make no distinction between the terrorists who committed these acts and those who harbor them.</p>
+The search is underway for those who are behind these evil acts. I've directed the full resources of our intelligence and law enforcement communities to find those responsible and to bring them to justice. We will make no distinction between the terrorists who committed these acts and those who harbor them.
 
-<p>I appreciate so very much the members of Congress who have joined me in strongly condemning these attacks. And on behalf of the American people, I thank the many world leaders who have called to offer their condolences and assistance.</p>
+I appreciate so very much the members of Congress who have joined me in strongly condemning these attacks. And on behalf of the American people, I thank the many world leaders who have called to offer their condolences and assistance.
 
-<p>America and our friends and allies join with all those who want peace and security in the world, and we stand together to win the war against terrorism. Tonight, I ask for your prayers for all those who grieve, for the children whose worlds have been shattered, for all whose sense of safety and security has been threatened. And I pray they will be comforted by a power greater than any of us, spoken through the ages in Psalm 23: "Even though I walk through the valley of the shadow of death, I fear no evil, for You are with me."</p>
+America and our friends and allies join with all those who want peace and security in the world, and we stand together to win the war against terrorism. Tonight, I ask for your prayers for all those who grieve, for the children whose worlds have been shattered, for all whose sense of safety and security has been threatened. And I pray they will be comforted by a power greater than any of us, spoken through the ages in Psalm 23: "Even though I walk through the valley of the shadow of death, I fear no evil, for You are with me."
 
-<p>This is a day when all Americans from every walk of life unite in our resolve for justice and peace. America has stood down enemies before, and we will do so this time. None of us will ever forget this day. Yet, we go forward to defend freedom and all that is good and just in our world.</p>
+This is a day when all Americans from every walk of life unite in our resolve for justice and peace. America has stood down enemies before, and we will do so this time. None of us will ever forget this day. Yet, we go forward to defend freedom and all that is good and just in our world.
 
-<p>Thank you. Good night, and God bless America.</p>
-
-
+Thank you. Good night, and God bless America.

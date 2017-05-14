@@ -1,2 +1,15 @@
-President: Franklin Pierce
-<p>Whereas information has been received by me that an unlawful expedition has been fitted out in the State of California with a view to invade Mexico, a nation maintaining friendly relations with the United States, and that other expeditions are organizing within the United States for the same unlawful purpose; and</p><p>Whereas certain citizens and inhabitants of this country, unmindful of their obligations and duties and of the rights of a friendly power, have participated and are about to participate in these enterprises, so derogatory to our national character and so threatening to our tranquillity, and are thereby incurring the severe penalties imposed by law against such offenders:</p><p>Now, therefore, I, Franklin Pierce, President of the United States, have issued this my proclamation, warning all persons who shall connect themselves with any such enterprise or expedition that the penalties of the law denounced against such criminal conduct will be rigidly enforced; and I exhort all good citizens, as they regard our national character, as they respect our laws or the law of nations, as they value the blessings of peace and the welfare of their country, to discountenance and by all lawful means prevent such criminal enterprises; and I call upon all officers of this Government, civil and military, to use any efforts which may be in their power to arrest for trial and punishment every such offender. Given under my hand and the seal of the United States, at Washington, this 18th day of January, A. D. 1854, and the seventy-eighth of the Independence of the United States.</p><p>FRANKLIN PIERCE.</p><p>By the President:</p><p>W.L. MARCY,</p><p>Secretary of State .</p>
+President: Franklin Pierce 
+
+Whereas information has been received by me that an unlawful expedition has been fitted out in the State of California with a view to invade Mexico, a nation maintaining friendly relations with the United States, and that other expeditions are organizing within the United States for the same unlawful purpose; and
+
+Whereas certain citizens and inhabitants of this country, unmindful of their obligations and duties and of the rights of a friendly power, have participated and are about to participate in these enterprises, so derogatory to our national character and so threatening to our tranquillity, and are thereby incurring the severe penalties imposed by law against such offenders:
+
+Now, therefore, I, Franklin Pierce, President of the United States, have issued this my proclamation, warning all persons who shall connect themselves with any such enterprise or expedition that the penalties of the law denounced against such criminal conduct will be rigidly enforced; and I exhort all good citizens, as they regard our national character, as they respect our laws or the law of nations, as they value the blessings of peace and the welfare of their country, to discountenance and by all lawful means prevent such criminal enterprises; and I call upon all officers of this Government, civil and military, to use any efforts which may be in their power to arrest for trial and punishment every such offender. Given under my hand and the seal of the United States, at Washington, this 18th day of January, A. D. 1854, and the seventy-eighth of the Independence of the United States.
+
+FRANKLIN PIERCE.
+
+By the President:
+
+W.L. MARCY,
+
+Secretary of State .

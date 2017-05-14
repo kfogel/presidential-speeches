@@ -1,13 +1,14 @@
-President: Ulysses S. Grant
-<p><br />
-By the President of the United States of America<br />
-A Proclamation<br />
-Whereas it has come to my knowledge that sundry illegal military enterprises and expeditions are being set on foot within the territory and jurisdiction of the United States with a view to carry on the same from such territory and jurisdiction against the people and district of the Dominion of Canada, within the dominions of Her Majesty the Queen of the United Kingdom of Great Britain and Ireland, with whom the United States are at peace:<br />
-Now, therefore, I, Ulysses S. Grant, President of the United States, do hereby admonish all good citizens of the United States and all persons within the territory and jurisdiction of the United States against aiding, countenancing, abetting, or taking part in such unlawful proceedings; and I do hereby warn all persons that by committing such illegal acts they will forfeit all right to the protection of the Government or to its interference in their behalf to rescue them from the consequences of their own acts; and I do hereby enjoin all officers in the service of the United States to employ all their lawful authority and power to prevent and defeat the aforesaid unlawful proceedings and to arrest and bring to justice all persons who may be engaged therein.<br />
-In testimony whereof I have hereunto set my hand and caused the seal of the United States to be affixed.<br />
-Done at the city of Washington, this 24th day of May, A. D. 1870, and of the Independence of the United States the ninety-fourth.<br />
-U. S. GRANT.<br />
-By the President:<br />
-HAMILTON FISH,<br />
-Secretary of State.<br />
-&nbsp;</p>
+President: Ulysses S. Grant 
+
+  
+By the President of the United States of America  
+A Proclamation  
+Whereas it has come to my knowledge that sundry illegal military enterprises and expeditions are being set on foot within the territory and jurisdiction of the United States with a view to carry on the same from such territory and jurisdiction against the people and district of the Dominion of Canada, within the dominions of Her Majesty the Queen of the United Kingdom of Great Britain and Ireland, with whom the United States are at peace:  
+Now, therefore, I, Ulysses S. Grant, President of the United States, do hereby admonish all good citizens of the United States and all persons within the territory and jurisdiction of the United States against aiding, countenancing, abetting, or taking part in such unlawful proceedings; and I do hereby warn all persons that by committing such illegal acts they will forfeit all right to the protection of the Government or to its interference in their behalf to rescue them from the consequences of their own acts; and I do hereby enjoin all officers in the service of the United States to employ all their lawful authority and power to prevent and defeat the aforesaid unlawful proceedings and to arrest and bring to justice all persons who may be engaged therein.  
+In testimony whereof I have hereunto set my hand and caused the seal of the United States to be affixed.  
+Done at the city of Washington, this 24th day of May, A. D. 1870, and of the Independence of the United States the ninety-fourth.  
+U. S. GRANT.  
+By the President:  
+HAMILTON FISH,  
+Secretary of State.  
+ 

@@ -1,20 +1,17 @@
-President: Richard Nixon
+President: Richard Nixon 
 
-      <p>Good evening:<br />
-Tomorrow, 100 million Americans will have an opportunity to participate in a decision that will affect the future of America and the future of the world for generations to come.<br />
-Regardless of how you vote, I urge each of you to vote. By your vote, you can make sure that this great decision is made by a majority of Americans eligible to vote, and not simply left to the minority who bother to vote.<br />
-I am not going to insult your intelligence tonight or impose upon your time by rehashing all the issues of the campaign or making any last-minute charges against our opponents.<br />
-You know what the issues are. You know that this is a choice which is probably the clearest choice between the candidates for President ever presented to the American people in this century.<br />
-I would, however, urge you to have in mind tomorrow one overriding issue, and that is the issue of peace—peace in Vietnam and peace in the world at large for a generation to come.<br />
-As you know, we have made a breakthrough in the negotiations which will lead to peace in Vietnam. We have agreed on the major principles that I laid down in my speech to the Nation of May 8. We have agreed that there will be a cease-fire, we have agreed that our prisoners of war will be returned and that the missing in action will be accounted for, and we have agreed that the people of South Vietnam shall have the right to determine their own future without having a Communist government or a coalition government imposed upon them against their will.<br />
-There are still some details that I am insisting be worked out and nailed down because I want this not to be a temporary peace. I want, and I know you want, it to be a lasting peace. But I can say to you with complete confidence tonight that we will soon reach agreement on all the issues and bring this long and difficult war to an end.<br />
-You can help achieve that goal. By your votes, you can send a message to those with whom we are negotiating, and to the leaders of the world, that you back the President of the United States in his insistence that we in the United States seek peace with honor and never peace with surrender.<br />
-I will not go into the other issues tonight, except to say that as we move to peace, we will open doors to progress on many fronts here at home. It means that we can have something we haven't had since President Eisenhower was President 15 years ago—prosperity without war and without inflation.<br />
-It means we can have progress toward better education, better health—in all the areas that I have presented to the American people over these past four years.<br />
-It means that we can move toward a goal that every American wants: that is, opportunity for each person in this great and good land to go to the top in whatever particular activity he chooses regardless of his background.<br />
-Those, then, are the issues you will have in mind.<br />
-Let me say, finally, I want to thank you for the honor of serving as President for the past four years, and, regardless of your decision tomorrow, I can assure you that I shall continue to work for a goal that every American has: Let's make the next four years the best four years in America's history.<br />
-Thank you. Good evening.</p>
-
-
-      
+Good evening:  
+Tomorrow, 100 million Americans will have an opportunity to participate in a decision that will affect the future of America and the future of the world for generations to come.  
+Regardless of how you vote, I urge each of you to vote. By your vote, you can make sure that this great decision is made by a majority of Americans eligible to vote, and not simply left to the minority who bother to vote.  
+I am not going to insult your intelligence tonight or impose upon your time by rehashing all the issues of the campaign or making any last-minute charges against our opponents.  
+You know what the issues are. You know that this is a choice which is probably the clearest choice between the candidates for President ever presented to the American people in this century.  
+I would, however, urge you to have in mind tomorrow one overriding issue, and that is the issue of peace—peace in Vietnam and peace in the world at large for a generation to come.  
+As you know, we have made a breakthrough in the negotiations which will lead to peace in Vietnam. We have agreed on the major principles that I laid down in my speech to the Nation of May 8. We have agreed that there will be a cease-fire, we have agreed that our prisoners of war will be returned and that the missing in action will be accounted for, and we have agreed that the people of South Vietnam shall have the right to determine their own future without having a Communist government or a coalition government imposed upon them against their will.  
+There are still some details that I am insisting be worked out and nailed down because I want this not to be a temporary peace. I want, and I know you want, it to be a lasting peace. But I can say to you with complete confidence tonight that we will soon reach agreement on all the issues and bring this long and difficult war to an end.  
+You can help achieve that goal. By your votes, you can send a message to those with whom we are negotiating, and to the leaders of the world, that you back the President of the United States in his insistence that we in the United States seek peace with honor and never peace with surrender.  
+I will not go into the other issues tonight, except to say that as we move to peace, we will open doors to progress on many fronts here at home. It means that we can have something we haven't had since President Eisenhower was President 15 years ago—prosperity without war and without inflation.  
+It means we can have progress toward better education, better health—in all the areas that I have presented to the American people over these past four years.  
+It means that we can move toward a goal that every American wants: that is, opportunity for each person in this great and good land to go to the top in whatever particular activity he chooses regardless of his background.  
+Those, then, are the issues you will have in mind.  
+Let me say, finally, I want to thank you for the honor of serving as President for the past four years, and, regardless of your decision tomorrow, I can assure you that I shall continue to work for a goal that every American has: Let's make the next four years the best four years in America's history.  
+Thank you. Good evening.

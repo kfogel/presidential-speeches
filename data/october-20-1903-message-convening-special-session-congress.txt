@@ -1,13 +1,14 @@
-President: Theodore Roosevelt
-<p>By the President of the United States of America<br />
-A Proclamation<br />
-Whereas, by the resolution of the Senate of March 19, 1903, the approval by Congress of the reciprocal Commercial Convention between the United States and the Republic of Cuba, signed at Havana on December 11, 1902, is necessary before the said Convention shall take effect;<br />
-And Whereas, it is important to the public interests of the United States that the said Convention shall become operative as early as may be;<br />
-Now, Therefore, I, Theodore Roosevelt, President of the United States of America, by virtue of the power vested in me by the Constitution, do hereby proclaim and declare that an extraordinary occasion requires the convening of both Houses of the Congress of the United States at their respective Chambers in the city of Washington on the 9th day of November next, at 12 o&#39;clock noon, to the end that they may consider and determine whether the approval of the Congress shall be given to the said Convention.<br />
-All persons entitled to act as members of the 58th Congress are required to take notice of this proclamation.<br />
-Given under my hand and the Seal of the United States at Washington the 20th day of October in the year of our Lord one thousand nine hundred and three and of the Independence of the United States the one hundred and twenty-eighth.</p>
+President: Theodore Roosevelt 
 
-<p>THEODORE ROOSEVELT<br />
-By the President:<br />
-JOHN HAY,<br />
-Secretary of State.</p>
+By the President of the United States of America  
+A Proclamation  
+Whereas, by the resolution of the Senate of March 19, 1903, the approval by Congress of the reciprocal Commercial Convention between the United States and the Republic of Cuba, signed at Havana on December 11, 1902, is necessary before the said Convention shall take effect;  
+And Whereas, it is important to the public interests of the United States that the said Convention shall become operative as early as may be;  
+Now, Therefore, I, Theodore Roosevelt, President of the United States of America, by virtue of the power vested in me by the Constitution, do hereby proclaim and declare that an extraordinary occasion requires the convening of both Houses of the Congress of the United States at their respective Chambers in the city of Washington on the 9th day of November next, at 12 o'clock noon, to the end that they may consider and determine whether the approval of the Congress shall be given to the said Convention.  
+All persons entitled to act as members of the 58th Congress are required to take notice of this proclamation.  
+Given under my hand and the Seal of the United States at Washington the 20th day of October in the year of our Lord one thousand nine hundred and three and of the Independence of the United States the one hundred and twenty-eighth.
+
+THEODORE ROOSEVELT  
+By the President:  
+JOHN HAY,  
+Secretary of State.

@@ -1,2 +1,17 @@
-President: James Madison
-<p>Whereas the Congress of the United States, by a joint resolution of the two Houses, have signified a request that a day may be recommended to be observed by the people of the United States with religious solemnity as a day of public humiliation and prayer; and</p><p>Whereas such a recommendation will enable the several religious denominations and societies so disposed to offer at one and the same time their common vows and adorations to Almighty God on the solemn occasion produced by the war in which He has been pleased to permit the injustice of a foreign power to involve these United States:</p><p>I do therefore recommend the third Thursday in August next as a convenient day to be set apart for the devout purposes of rendering the Sovereign of the Universe and the Benefactor of Mankind the public homage due to His holy attributes; of acknowledging the transgressions which might justly provoke the manifestations of His divine displeasure; of seeking His merciful forgiveness and His assistance in the great duties of repentance and amendment, and especially of offering fervent supplications that in the present season of calamity and war He would take the American people under His peculiar care and protection; that He would guide their public councils, animate their patriotism, and bestow His blessing on their arms; that He would inspire all nations with a love of justice and of concord and with a reverence for the unerring precept of our holy religion to do to others as they would require that others should do to them; and, finally, that, turning the hearts of our enemies from the violence and injustice which sway their councils against us, He would hasten a restoration of the blessings of peace.</p><p>Given at Washington, the 9th day of July, A. D. 1812.</p><p>JAMES MADISON.</p><p>By the President:</p><p>JAMES MONROE,</p><p>Secretary of State.</p>
+President: James Madison 
+
+Whereas the Congress of the United States, by a joint resolution of the two Houses, have signified a request that a day may be recommended to be observed by the people of the United States with religious solemnity as a day of public humiliation and prayer; and
+
+Whereas such a recommendation will enable the several religious denominations and societies so disposed to offer at one and the same time their common vows and adorations to Almighty God on the solemn occasion produced by the war in which He has been pleased to permit the injustice of a foreign power to involve these United States:
+
+I do therefore recommend the third Thursday in August next as a convenient day to be set apart for the devout purposes of rendering the Sovereign of the Universe and the Benefactor of Mankind the public homage due to His holy attributes; of acknowledging the transgressions which might justly provoke the manifestations of His divine displeasure; of seeking His merciful forgiveness and His assistance in the great duties of repentance and amendment, and especially of offering fervent supplications that in the present season of calamity and war He would take the American people under His peculiar care and protection; that He would guide their public councils, animate their patriotism, and bestow His blessing on their arms; that He would inspire all nations with a love of justice and of concord and with a reverence for the unerring precept of our holy religion to do to others as they would require that others should do to them; and, finally, that, turning the hearts of our enemies from the violence and injustice which sway their councils against us, He would hasten a restoration of the blessings of peace.
+
+Given at Washington, the 9th day of July, A. D. 1812.
+
+JAMES MADISON.
+
+By the President:
+
+JAMES MONROE,
+
+Secretary of State.

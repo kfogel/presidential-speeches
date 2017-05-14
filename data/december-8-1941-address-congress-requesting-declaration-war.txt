@@ -1,22 +1,19 @@
-President: Franklin D. Roosevelt
+President: Franklin D. Roosevelt 
 
-      <p>Mr. Vice President, and Mr. Speaker, and Members of the Senate and House of Representatives:<br />
-Yesterday, December 7, 1941—a date which will live in infamy—the United States of America was suddenly and deliberately attacked by naval and air forces of the Empire of Japan.<br />
-The United States was at peace with that Nation and, at the solicitation of Japan, was still in conversation with its Government and its Emperor looking toward the maintenance of peace in the Pacific. Indeed, one hour after Japanese air squadrons had commenced bombing in the American Island of Oahu, the Japanese Ambassador to the United States and his colleague delivered to our Secretary of State a formal reply to a recent American message. And while this reply stated that it seemed useless to continue the existing diplomatic negotiations, it contained no threat or hint of war or of armed attack.<br />
-It will be recorded that the distance of Hawaii from Japan makes it obvious that the attack was deliberately planned many days or even weeks ago. During the intervening time the Japanese Government has deliberately sought to deceive the United States by false statements and expressions of hope for continued peace.<br />
-The attack yesterday on the Hawaiian Islands has caused severe damage to American naval and military forces. I regret to tell you that very many American lives have been lost. In addition American ships have been reported torpedoed on the high seas between San Francisco and Honolulu.<br />
-Yesterday the Japanese Government also launched an attack against Malaya.<br />
-Last night Japanese forces attacked Hong Kong.<br />
-Last night Japanese forces attacked Guam.<br />
-Last night Japanese forces attacked the Philippine Islands.<br />
-Last night the Japanese attacked Wake Island. And this morning the Japanese attacked Midway Island.<br />
-Japan has, therefore, undertaken a surprise offensive extending throughout the Pacific area. The facts of yesterday and today speak for themselves. The people of the United States have already formed their opinions and well understand the implications to the very life and safety of our Nation.<br />
-As Commander in Chief of the Army and Navy I have directed that all measures be taken for our defense.<br />
-But always will our whole Nation remember the character of the onslaught against us.<br />
-No matter how long it may take us to overcome this premeditated invasion, the American people in their righteous might will win through to absolute victory. I believe that I interpret the will of the Congress and of the people when I assert that we will not only defend ourselves to the uttermost but will make it very certain that this form of treachery shall never again endanger us.<br />
-Hostilities exist. There is no blinking at the fact that our people, our territory, and our interests are in grave danger.<br />
-With confidence in our armed forces—with the unbounding determination of our people—we will gain the inevitable triumph, so help us God.<br />
-I ask that the Congress declare that since the unprovoked and dastardly attack by Japan on Sunday, December 7, 1941, a state of war has existed between the United States and the Japanese Empire.</p>
-
-
-      
+Mr. Vice President, and Mr. Speaker, and Members of the Senate and House of Representatives:  
+Yesterday, December 7, 1941—a date which will live in infamy—the United States of America was suddenly and deliberately attacked by naval and air forces of the Empire of Japan.  
+The United States was at peace with that Nation and, at the solicitation of Japan, was still in conversation with its Government and its Emperor looking toward the maintenance of peace in the Pacific. Indeed, one hour after Japanese air squadrons had commenced bombing in the American Island of Oahu, the Japanese Ambassador to the United States and his colleague delivered to our Secretary of State a formal reply to a recent American message. And while this reply stated that it seemed useless to continue the existing diplomatic negotiations, it contained no threat or hint of war or of armed attack.  
+It will be recorded that the distance of Hawaii from Japan makes it obvious that the attack was deliberately planned many days or even weeks ago. During the intervening time the Japanese Government has deliberately sought to deceive the United States by false statements and expressions of hope for continued peace.  
+The attack yesterday on the Hawaiian Islands has caused severe damage to American naval and military forces. I regret to tell you that very many American lives have been lost. In addition American ships have been reported torpedoed on the high seas between San Francisco and Honolulu.  
+Yesterday the Japanese Government also launched an attack against Malaya.  
+Last night Japanese forces attacked Hong Kong.  
+Last night Japanese forces attacked Guam.  
+Last night Japanese forces attacked the Philippine Islands.  
+Last night the Japanese attacked Wake Island. And this morning the Japanese attacked Midway Island.  
+Japan has, therefore, undertaken a surprise offensive extending throughout the Pacific area. The facts of yesterday and today speak for themselves. The people of the United States have already formed their opinions and well understand the implications to the very life and safety of our Nation.  
+As Commander in Chief of the Army and Navy I have directed that all measures be taken for our defense.  
+But always will our whole Nation remember the character of the onslaught against us.  
+No matter how long it may take us to overcome this premeditated invasion, the American people in their righteous might will win through to absolute victory. I believe that I interpret the will of the Congress and of the people when I assert that we will not only defend ourselves to the uttermost but will make it very certain that this form of treachery shall never again endanger us.  
+Hostilities exist. There is no blinking at the fact that our people, our territory, and our interests are in grave danger.  
+With confidence in our armed forces—with the unbounding determination of our people—we will gain the inevitable triumph, so help us God.  
+I ask that the Congress declare that since the unprovoked and dastardly attack by Japan on Sunday, December 7, 1941, a state of war has existed between the United States and the Japanese Empire.

@@ -1,14 +1,15 @@
-President: Franklin D. Roosevelt
-<p>To the Congress:</p>
+President: Franklin D. Roosevelt 
 
-<p>On the morning of December eleventh, the Government of Germany, pursuing its course of world conquest, declared war against the United States.</p>
+To the Congress:
 
-<p>The long known and the long expected has thus taken place. The forces endeavoring to enslave the entire world now are moving toward this hemisphere.</p>
+On the morning of December eleventh, the Government of Germany, pursuing its course of world conquest, declared war against the United States.
 
-<p>Never before has there been a greater challenge to life, liberty, and civilization.</p>
+The long known and the long expected has thus taken place. The forces endeavoring to enslave the entire world now are moving toward this hemisphere.
 
-<p>Delay invites greater danger. Rapid and united effort by all of the peoples of the world who are determined to remain free will insure a world victory of the forces of justice and of righteousness over the forces of savagery and of barbarism.</p>
+Never before has there been a greater challenge to life, liberty, and civilization.
 
-<p>Italy also has declared war against the United States.</p>
+Delay invites greater danger. Rapid and united effort by all of the peoples of the world who are determined to remain free will insure a world victory of the forces of justice and of righteousness over the forces of savagery and of barbarism.
 
-<p>I therefore request the Congress to recognize a state of war between the United States and Germany, and between the United States and Italy.</p>
+Italy also has declared war against the United States.
+
+I therefore request the Congress to recognize a state of war between the United States and Germany, and between the United States and Italy.

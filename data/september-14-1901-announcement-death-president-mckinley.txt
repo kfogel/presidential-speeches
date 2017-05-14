@@ -1,15 +1,16 @@
-President: Theodore Roosevelt
-<p>By the President of the United States of America<br />
-A Proclamation<br />
-To the people of the United States:<br />
-A terrible bereavement has befallen our people. The President of the United States has been struck down; a crime not only against the Chief Magistrate, but against every law-abiding and liberty-loving citizen.<br />
-President McKinley crowned a life of largest love for his fellow men, of earnest endeavor for their welfare, by a death of Christian fortitude; and both the way in which he lived his life and the way in which, in the supreme hour of trial, he met his death will remain forever a precious heritage of our people.<br />
-It is meet that we as a nation express our abiding love and reverence for his life, our deep sorrow for his untimely death.<br />
-Now, Therefore, I, Theodore Roosevelt, President of the United States of America, do appoint Thursday next, September 19, the day in which the body of the dead President will be laid in its last earthly resting place, as a day of mourning and prayer throughout the United States. I earnestly recommend all the people to assemble on that day in their respective places of divine worship, there to bow down in submission to the will of Almighty God, and to pay out of full hearts the homage of love and reverence to the memory of the great and good President, whose death has so sorely smitten the nation.<br />
-In Witness Whereof, I have hereunto set my hand and caused the seal of the United States to be affixed.<br />
-Done at the city of Washington, the fourteenth day of September, A. D. 1901, and of the Independence of the United States the one hundred and twenty-sixth.</p>
+President: Theodore Roosevelt 
 
-<p>THEODORE ROOSEVELT<br />
-By the President:<br />
-JOHN HAY,<br />
-Secretary of State.</p>
+By the President of the United States of America  
+A Proclamation  
+To the people of the United States:  
+A terrible bereavement has befallen our people. The President of the United States has been struck down; a crime not only against the Chief Magistrate, but against every law-abiding and liberty-loving citizen.  
+President McKinley crowned a life of largest love for his fellow men, of earnest endeavor for their welfare, by a death of Christian fortitude; and both the way in which he lived his life and the way in which, in the supreme hour of trial, he met his death will remain forever a precious heritage of our people.  
+It is meet that we as a nation express our abiding love and reverence for his life, our deep sorrow for his untimely death.  
+Now, Therefore, I, Theodore Roosevelt, President of the United States of America, do appoint Thursday next, September 19, the day in which the body of the dead President will be laid in its last earthly resting place, as a day of mourning and prayer throughout the United States. I earnestly recommend all the people to assemble on that day in their respective places of divine worship, there to bow down in submission to the will of Almighty God, and to pay out of full hearts the homage of love and reverence to the memory of the great and good President, whose death has so sorely smitten the nation.  
+In Witness Whereof, I have hereunto set my hand and caused the seal of the United States to be affixed.  
+Done at the city of Washington, the fourteenth day of September, A. D. 1901, and of the Independence of the United States the one hundred and twenty-sixth.
+
+THEODORE ROOSEVELT  
+By the President:  
+JOHN HAY,  
+Secretary of State.
