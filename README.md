@@ -23,16 +23,6 @@ Each transcript in the [data](data) directory starts with a single
 line of the form "President: Name Of Some President", followed on
 the next line (or maybe after some blank lines) by the transcript.
 
-_(Note: As of this writing, the raw web pages are in [data](data), so
-that the extraction process can be fully reflected in the revision
-history here.  Most of each page is the speech itself, but there is
-sometimes some wrapper content around it.  The copyright owner for
-that content is the Miller Center; it is not subject to the copyright
-license of this repository as a whole, nor is it in the public domain
-as the speeches themselves are.  Subsequent commits will show the mild
-data massaging and extraction I did, and once the Miller Center's
-content is removed, so too will be this note.)_
-
 The presidential identifiers appear to be consistent, e.g., LBJ is
 always "Lyndon B. Johnson", never "Lyndon Johnson".  Here's how I
 checked:
