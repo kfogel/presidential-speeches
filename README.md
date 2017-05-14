@@ -7,7 +7,7 @@ some open source code for doing (so far rudimentary) analysis of them.
 The text of the speeches comes from [The Miller
 Center](https://millercenter.org/the-presidency/presidential-speeches)
 at the University of Virginia.  The Miller Center provides not just
-the text of the speecehs, but audio and video when available.
+the text of the speeches, but audio and video when available.
 However, since each speech is encapsulated in a single web page and
 those pages are in a pretty consistent format (thank you, Miller
 Center!), the raw text for each speech was easily extractable via
@@ -220,11 +220,11 @@ original URL.  Just strip off the `.txt` from the end, and prepend
   there other old speeches with odd spelling?
 
 * Some things are really written out and signed.
-  The say "By the president" or somesuch at the bottom, and
+  The say "By the president" or some such at the bottom, and
   often mention another official who facilitated the transmission.
   See, e.g., [this
   one](data/may-19-1869-proclamation-establishing-eight-hour-workday.txt).
 
-* Some speeches are signed "Very respectfully," or somesuch.
+* Some speeches are signed "Very respectfully," or some such.
   E.g., [this
   one](data/june-22-1877-prohibition-federal-employees-political.txt).
