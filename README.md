@@ -104,6 +104,11 @@ Each data file's name can be algorithmically transformed back to its
 original URL.  Just strip off the `.txt` from the end, and prepend
 `https://millercenter.org/the-presidency/presidential-speeches/`.
 
+Below is a list of various consistency and formatting issues I have
+noticed in the data.  Some of these are issues that would likely
+affect any comparative analysis, and would have to be filtered out or
+otherwise handled specially.
+
 * Debates and press conferences include other speakers.
 
   Many of these transcripts are not speeches but rather debates or
@@ -239,18 +244,24 @@ original URL.  Just strip off the `.txt` from the end, and prepend
   is really a summary (see original at
   https://millercenter.org/the-presidency/presidential-speeches/february-24-1841-argument-supreme-court-case-united-states-v).
 
+  How many more such are there?  I don't know yet.
+
 * Unexpected number and spelling in one speech.  
 
   [This speech](data/march-4-1793-second-inaugural-address) has the
   number "56" inline in the text, and spells a word "punishmt".  Are
   there other old speeches with odd spelling?
 
-* Some things are really written out and signed.
+  How many other transcripts have issues like that?  I don't know yet.
+
+* Some speeches were actually written out and signed.
   The say "By the president" or some such at the bottom, and
   often mention another official who facilitated the transmission.
   See, e.g., [this
   one](data/may-19-1869-proclamation-establishing-eight-hour-workday.txt).
-
-* Some speeches are signed "Very respectfully," or some such.
-  E.g., [this
+  Others are signed "Very respectfully," or some such, e.g., [this
   one](data/june-22-1877-prohibition-federal-employees-political.txt).
+
+  At the very least, such footer text should be stripped for the
+  purposes of textual analysis, because it's not part of what the
+  President said.
