@@ -1,0 +1,17 @@
+#!/bin/sh
+
+rm -f data/all.out
+
+for name in data/*.txt; do
+  xz --stdout -9 ${name} > ${name}.xz
+  ORIG_SIZE=`ls -l ${name}    | cut -d " " -f 5`
+  COMP_SIZE=`ls -l ${name}.xz | cut -d " " -f 5`
+  echo "${name} (original: ${ORIG_SIZE}, compressed: ${COMP_SIZE})"
+  PRESIDENT=`head -1 ${name}  | cut -d " " -f 2-`
+  echo -n "${PRESIDENT}: " >> data/all.out
+  dc -e "5 k ${COMP_SIZE} ${ORIG_SIZE} / 100 * p" >> data/all.out
+  sort data/all.out > data/all.out.sorted
+  mv data/all.out.sorted data/all.out
+done
+
+cat data/all.out
