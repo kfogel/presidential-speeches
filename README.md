@@ -14,33 +14,10 @@ Center!), the raw text for each speech was easily extractable via
 [Emacs](https://www.gnu.org/software/emacs/) macros.  See the section
 "Notes on data formatting and consistency" below for details.
 
-Comparative compression analysis.
----------------------------------
+Comparative analysis.
+---------------------
 
-As of this writing, the code isn't here yet.  It's coming soon :-).
-
-Top compressor candidates right now:
-
-* `xz`  (package `xz-utils` in Debian)
-
-* `cmix`
-
-  - http://www.byronknoll.com/cmix.html
-  - https://github.com/byronknoll/cmix
-
-We could try with `bzip2` and `gzip`, but don't expect them to do
-better in absolute terms; it would be interesting if the _ratios_
-change, though.  It would also be interesting to see how
-[EXIficient](http://exificient.github.io/) or [Fast
-Infoset](https://en.wikipedia.org/wiki/Fast_Infoset) perform, but as
-they are tailored to XML it would be surprising if they outperformed
-either `xz` or `cmix` on plain text.
-
-These aren't candidates, but provide interesting context:
-
-* http://prize.hutter1.net/
-* https://www.quora.com/What-is-the-best-text-compression-algorithm
-* http://mattmahoney.net/dc/text.html
+Work in progress; start by running [do-all](do-all).
 
 Notes on data formatting and consistency.
 -----------------------------------------
