@@ -8,10 +8,15 @@ import sys
 # in itself: http://www.erinhengel.com/research/publishing_female.pdf.
 import textatistic
 
-# We could also try http://flesh.sourceforge.net/index.html, but
-# although it claims to be licensed under the GPL, I can't find source
-# code anywhere.  It's also older than textastic, written in Java, and
+# See https://en.wikipedia.org/wiki/Automated_readability_index for
+# another index, which is not AFAIK implemented in Textastic.
+# 
+# There's also http://flesh.sourceforge.net/index.html, but although
+# it claims to be licensed under the GPL, I can't find source code
+# anywhere.  It's also older than textastic, written in Java, and
 # doesn't seem to have any public version controlled home online.
+# There's http://mallet.cs.umass.edu/ too, which is used for
+# http://people.cs.pitt.edu/~litman/courses/slate/pdf/Read-X.pdf.
 
 t = textatistic.Textatistic(sys.stdin.read())
 
