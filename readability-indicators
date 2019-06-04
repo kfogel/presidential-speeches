@@ -20,10 +20,10 @@ import textatistic
 
 t = textatistic.Textatistic(sys.stdin.read())
 
-print("%7.2f <= Flesch Reading Ease score" % t.flesch_score)
-print("%7.2f <= Flesch-Kincaid score" % t.fleschkincaid_score)
-print("%7.2f <= Gunning Fog score" % t.gunningfog_score)
-print("%7.2f <= SMOG score" % t.smog_score)
-print("%7.2f <= Dale-Chall score" % t.dalechall_score)
+print("%7.2f <= Flesch Reading Ease" % t.flesch_score)
+print("%7.2f <= Flesch-Kincaid grade level" % t.fleschkincaid_score)
+print("%7.2f <= Gunning Fog" % t.gunningfog_score)
+print("%7.2f <= SMOG" % t.smog_score)
+print("%7.2f <= Dale-Chall" % t.dalechall_score)
 print("%7d <= number of words not on Dale-Chall list of words understood by 80%% of 4th graders" % t.notdalechall_count)
 print("%7d <= number of words with three or more syllables" % t.polysyblword_count)
