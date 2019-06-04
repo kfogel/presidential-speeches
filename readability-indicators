@@ -20,8 +20,8 @@ import textatistic
 
 t = textatistic.Textatistic(sys.stdin.read())
 
+print("%7.2f <= Flesch-Kincaid Grade Level" % t.fleschkincaid_score)
 print("%7.2f <= Flesch Reading Ease" % t.flesch_score)
-print("%7.2f <= Flesch-Kincaid grade level" % t.fleschkincaid_score)
 print("%7.2f <= Gunning Fog" % t.gunningfog_score)
 print("%7.2f <= SMOG" % t.smog_score)
 print("%7.2f <= Dale-Chall" % t.dalechall_score)
