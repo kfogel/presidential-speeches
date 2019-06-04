@@ -84,7 +84,17 @@ original URL.  Just strip off the `.txt` from the end, and prepend
 Below is a list of various consistency and formatting issues I have
 noticed in the data.  Some of these are issues that would likely
 affect any comparative analysis, and would have to be filtered out or
-otherwise handled specially.
+otherwise handled specially.  A general solution would be a 'pcat'
+command ("presidential catenate", like Unix 'cat' but living in the
+White House I guess) that takes a transcript as input and prints just
+the President's actual words as output.
+
+* Double hyphen used for em-dash is inconsistently spaced.
+
+  In some speeches--particularly the older ones--the double hyphen
+  without spaces on either side is used em-dash, as in this sentence.
+  In other speeches -- particularly the newer ones -- it's done with
+  spaces on either side, as in this sentence.
 
 * Debates and press conferences include other speakers.
 
