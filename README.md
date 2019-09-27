@@ -78,8 +78,14 @@ checked:
             $ 
 
 Each data file's name can be algorithmically transformed back to its
-original URL.  Just strip off the `.txt` from the end, and prepend
-`https://millercenter.org/the-presidency/presidential-speeches/`.
+original URL:
+
+1. Convert the file's "YYYY-MM-DD" prefix to "monthname-D-YYYY".  For
+   example, "2008-11-04" would become "november-4-2008".
+
+2. Strip off the `.txt` from the end of the filename.
+
+3. Prepend `https://millercenter.org/the-presidency/presidential-speeches/`.
 
 Below is a list of various consistency and formatting issues I have
 noticed in the data.  Some of these are issues that would likely
@@ -105,64 +111,64 @@ the President's actual words as output.
   when it's just the President answering questions from reporters,
   most of the words are President's with a few words from reporters,
   but when it is a joint press conference with another politician,
-  e.g., data/july-31-1991-press-conference-mikhail-gorbachev.txt, then
+  e.g., data/1991-07-31-press-conference-mikhail-gorbachev.txt, then
   a lot of the words in the file are from sources other than the
   President.
 
           $ ls data/*conference*
-          data/april-16-1964-press-conference-state-department.txt
-          data/april-19-1890-statement-international-american-conference.txt
-          data/april-27-1965-press-conference-east-room.txt
-          data/april-3-1968-press-conference.txt
-          data/august-18-1967-press-conference.txt
-          data/august-25-1965-press-conference-white-house.txt
-          data/august-9-1945-radio-report-american-people-potsdam-conference.txt
-          data/december-24-1943-fireside-chat-27-tehran-and-cairo-conferences.txt
-          data/december-31-1966-press-conference.txt
-          data/february-1-1964-press-conference.txt
-          data/february-2-1967-press-conference.txt
-          data/february-25-1974-presidents-news-conference.txt
-          data/february-29-1964-press-conference-state-department.txt
-          data/february-4-1965-press-conference.txt
-          data/february-9-2010-news-conference-congressional-gridlock.txt
-          data/january-12-2009-final-press-conference.txt
-          data/january-29-1981-first-press-conference.txt
-          data/january-29-1993-press-conference-gays-military.txt
-          data/july-13-1965-press-conference-east-room.txt
-          data/july-20-1966-press-conference-east-room.txt
-          data/july-24-1964-press-conference-state-department.txt
-          data/july-28-1965-press-conference.txt
-          data/july-31-1991-press-conference-mikhail-gorbachev.txt
-          data/july-5-1966-press-conference-lbj-ranch.txt
-          data/june-1-1965-press-conference-east-room.txt
-          data/march-13-1965-press-conference-white-house.txt
-          data/march-20-1965-press-conference-lbj-ranch.txt
-          data/march-7-1964-press-conference-white-house.txt
-          data/march-9-1967-press-conference.txt
-          data/march-9-1977-remarks-president-carters-press-conference.txt
-          data/may-6-1964-press-conference-south-lawn.txt
-          data/november-12-1921-opening-speech-conference-limitation-armament.txt
-          data/november-17-1967-press-conference.txt
-          data/november-3-2010-press-conference-after-2010-midterm-elections.txt
-          data/october-6-1966-press-conference.txt
+          data/1890-04-19-statement-international-american-conference.txt
+          data/1921-11-12-opening-speech-conference-limitation-armament.txt
+          data/1943-12-24-fireside-chat-27-tehran-and-cairo-conferences.txt
+          data/1945-08-09-radio-report-american-people-potsdam-conference.txt
+          data/1964-02-01-press-conference.txt
+          data/1964-02-29-press-conference-state-department.txt
+          data/1964-03-07-press-conference-white-house.txt
+          data/1964-04-16-press-conference-state-department.txt
+          data/1964-05-06-press-conference-south-lawn.txt
+          data/1964-07-24-press-conference-state-department.txt
+          data/1965-02-04-press-conference.txt
+          data/1965-03-13-press-conference-white-house.txt
+          data/1965-03-20-press-conference-lbj-ranch.txt
+          data/1965-04-27-press-conference-east-room.txt
+          data/1965-06-01-press-conference-east-room.txt
+          data/1965-07-13-press-conference-east-room.txt
+          data/1965-07-28-press-conference.txt
+          data/1965-08-25-press-conference-white-house.txt
+          data/1966-07-05-press-conference-lbj-ranch.txt
+          data/1966-07-20-press-conference-east-room.txt
+          data/1966-10-06-press-conference.txt
+          data/1966-12-31-press-conference.txt
+          data/1967-02-02-press-conference.txt
+          data/1967-03-09-press-conference.txt
+          data/1967-08-18-press-conference.txt
+          data/1967-11-17-press-conference.txt
+          data/1968-04-03-press-conference.txt
+          data/1974-02-25-presidents-news-conference.txt
+          data/1977-03-09-remarks-president-carters-press-conference.txt
+          data/1981-01-29-first-press-conference.txt
+          data/1991-07-31-press-conference-mikhail-gorbachev.txt
+          data/1993-01-29-press-conference-gays-military.txt
+          data/2009-01-12-final-press-conference.txt
+          data/2010-02-09-news-conference-congressional-gridlock.txt
+          data/2010-11-03-press-conference-after-2010-midterm-elections.txt
           $ ls data/*debate*
-          data/october-11-1992-debate-bill-clinton-and-ross-perot.txt
-          data/october-13-1960-debate-richard-nixon-new-york-and-los-angeles.txt
-          data/october-21-1960-debate-richard-nixon-new-york.txt
-          data/october-21-1984-debate-walter-mondale-defense-and-foreign.txt
-          data/october-22-1976-debate-president-gerald-ford.txt
-          data/october-28-1980-debate-ronald-reagan.txt
-          data/october-6-1976-debate-president-gerald-ford-foreign-and.txt
-          data/october-6-1996-presidential-debate-senator-bob-dole.txt
-          data/october-7-1960-debate-richard-nixon-washington-dc.txt
-          data/october-7-1984-debate-walter-mondale-domestic-issues.txt
-          data/september-23-1976-debate-president-gerald-ford-domestic-issues.txt
-          data/september-25-1988-debate-michael-dukakis.txt
-          data/september-26-1960-debate-richard-nixon-chicago.txt
+          data/1960-09-26-debate-richard-nixon-chicago.txt
+          data/1960-10-07-debate-richard-nixon-washington-dc.txt
+          data/1960-10-13-debate-richard-nixon-new-york-and-los-angeles.txt
+          data/1960-10-21-debate-richard-nixon-new-york.txt
+          data/1976-09-23-debate-president-gerald-ford-domestic-issues.txt
+          data/1976-10-06-debate-president-gerald-ford-foreign-and.txt
+          data/1976-10-22-debate-president-gerald-ford.txt
+          data/1980-10-28-debate-ronald-reagan.txt
+          data/1984-10-07-debate-walter-mondale-domestic-issues.txt
+          data/1984-10-21-debate-walter-mondale-defense-and-foreign.txt
+          data/1988-09-25-debate-michael-dukakis.txt
+          data/1992-10-11-debate-bill-clinton-and-ross-perot.txt
+          data/1996-10-06-presidential-debate-senator-bob-dole.txt
 
 * One speech was missing the presidential identifier element.
 
-  [This](data/september-8-2011-address-congress-american-jobs-act.txt)
+  [This](data/2011-09-08-address-congress-american-jobs-act.txt)
   speech, given by Barack Obama on 8 Sep 2011, was missing a
   standardized HTML element that every other speech uses to identify
   the president who gave the speech.  I added the element...
@@ -187,25 +193,25 @@ the President's actual words as output.
                     then echo -n ""; else echo "${name}";         \
                  fi;                                              \
               done
-          april-28-1981-address-program-economic-recovery
-          august-11-1842-message-senate-negotiations-britain
-          august-15-1988-farewell-address-republican-national-convention
-          december-16-1988-speech-foreign-policy
-          january-20-1965-inaugural-address
-          july-17-2004-remarks-national-security-and-war-effort
-          june-17-1982-speech-united-nations-general-assembly
-          june-6-1984-40th-anniversary-d-day
-          june-9-1982-address-bundestag-west-germany
-          march-23-1983-address-nation-national-security
-          may-19-2011-speech-american-diplomacy-middle-east-and-north
-          may-5-1985-bergen-belsen-concentration-camp
-          november-18-1981-speech-strategic-arms-reduction-talks
-          november-2-1983-speech-creation-martin-luther-king-jr-national
-          november-4-1983-remarks-us-casualties-lebanon-and-grenada
-          october-21-2011-remarks-end-war-iraq
-          october-7-1984-debate-walter-mondale-domestic-issues
-          september-14-1986-speech-nation-campaign-against-drug-abuse
-          september-20-1982-address-nation-lebanon
+          1842-08-11-message-senate-negotiations-britain.txt
+          1965-01-20-inaugural-address.txt
+          1981-04-28-address-program-economic-recovery.txt
+          1981-11-18-speech-strategic-arms-reduction-talks.txt
+          1982-06-09-address-bundestag-west-germany.txt
+          1982-06-17-speech-united-nations-general-assembly.txt
+          1982-09-20-address-nation-lebanon.txt
+          1983-03-23-address-nation-national-security.txt
+          1983-11-02-speech-creation-martin-luther-king-jr-national.txt
+          1983-11-04-remarks-us-casualties-lebanon-and-grenada.txt
+          1984-06-06-40th-anniversary-d-day.txt
+          1984-10-07-debate-walter-mondale-domestic-issues.txt
+          1985-05-05-bergen-belsen-concentration-camp.txt
+          1986-09-14-speech-nation-campaign-against-drug-abuse.txt
+          1988-08-15-farewell-address-republican-national-convention.txt
+          1988-12-16-speech-foreign-policy.txt
+          2004-07-17-remarks-national-security-and-war-effort.txt
+          2011-05-19-speech-american-diplomacy-middle-east-and-north.txt
+          2011-10-21-remarks-end-war-iraq.txt
           $ 
 
   This element is normally present in the Miller Center web page for
@@ -215,7 +221,7 @@ the President's actual words as output.
 
   In most or all of the speeches where it's missing, the location is
   known.  E.g., we clearly know where Ronald Reagan's [1982 speech at
-  the Bundestag](june-9-1982-address-bundestag-west-germany.txt) took
+  the Bundestag](1982-06-09-address-bundestag-west-germany.txt) took
   place.
 
   This issue is also mentioned in my 2017-05-14 report to
@@ -227,7 +233,7 @@ the President's actual words as output.
 * The transcript of at least one speech is really a summary.
 
   The transcript of [this
-  speech](data/february-24-1841-argument-supreme-court-case-united-states-v.txt)
+  speech](data/1841-02-24-argument-supreme-court-case-united-states-v.txt)
   is really a summary (see original at
   https://millercenter.org/the-presidency/presidential-speeches/february-24-1841-argument-supreme-court-case-united-states-v).
 
@@ -235,7 +241,7 @@ the President's actual words as output.
 
 * Unexpected number and spelling in one speech.  
 
-  [This speech](data/march-4-1793-second-inaugural-address) has the
+  [This speech](data/1793-03-04-second-inaugural-address) has the
   number "56" inline in the text, and spells a word "punishmt".  Are
   there other old speeches with odd spelling?
 
@@ -245,9 +251,9 @@ the President's actual words as output.
   The say "By the president" or some such at the bottom, and
   often mention another official who facilitated the transmission.
   See, e.g., [this
-  one](data/may-19-1869-proclamation-establishing-eight-hour-workday.txt).
+  one](data/1869-05-19-proclamation-establishing-eight-hour-workday.txt).
   Others are signed "Very respectfully," or some such, e.g., [this
-  one](data/june-22-1877-prohibition-federal-employees-political.txt).
+  one](data/1877-06-22-prohibition-federal-employees-political.txt).
 
   At the very least, such footer text should be stripped for the
   purposes of textual analysis, because it's not part of what the
