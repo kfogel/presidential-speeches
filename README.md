@@ -1,8 +1,8 @@
 Presidential Speeches
 =====================
 
-This repository holds the raw text of 978 presidential speeches, and
-some open source code for doing (so far rudimentary) analysis of them.
+This repository holds the raw text of over 900 U.S. presidential speeches,
+and some open source code for doing (so far rudimentary) analysis of them.
 
 The texts come from [The Miller
 Center](https://millercenter.org/the-presidency/presidential-speeches)
