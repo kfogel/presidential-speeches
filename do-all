@@ -3,7 +3,7 @@
 # Quick and dirty output for now.  This doesn't really serve the
 # needs of comparative analysis, it just shows the raw data.
 
-for name in data/*; do
+for name in `git ls-files data`; do
   echo "*** ${name}"
   echo ""
   head -1 ${name}
