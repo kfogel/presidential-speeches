@@ -4,7 +4,7 @@ Presidential Speeches
 This repository holds the raw text of over 900 U.S. presidential speeches,
 and some open source code for doing (so far rudimentary) analysis of them.
 
-The texts come from [The Miller
+Almost all the texts come from [The Miller
 Center](https://millercenter.org/the-presidency/presidential-speeches)
 at the University of Virginia.  The Miller Center provides not just
 the text of the speeches, but audio and video when available.
@@ -13,6 +13,13 @@ those pages are in a pretty consistent format (thank you, Miller
 Center!), the raw text for each speech was easily extractable via
 [Emacs](https://www.gnu.org/software/emacs/) macros.  See the section
 "Notes on data formatting and consistency" below for details.
+
+So far I've added one speech from a source other than the Miller Center:
+this [speech at a September 2019 foreign policy press
+conference](data/2019-09-25-foreign-policy-press-conference.txt) comes
+directly from [a White House web
+page](https://www.whitehouse.gov/briefings-statements/remarks-president-trump-press-conference-3/),
+because for some reason the Miller Center didn't have it yet.
 
 Comparative analysis.
 ---------------------
