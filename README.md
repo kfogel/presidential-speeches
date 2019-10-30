@@ -14,13 +14,6 @@ Center!), the raw text for each speech was easily extractable via
 [Emacs](https://www.gnu.org/software/emacs/) macros.  See the section
 "Notes on data formatting and consistency" below for details.
 
-So far I've added one speech from a source other than the Miller Center:
-this [speech at a September 2019 foreign policy press
-conference](data/2019-09-25-foreign-policy-press-conference.txt) comes
-directly from [a White House web
-page](https://www.whitehouse.gov/briefings-statements/remarks-president-trump-press-conference-3/),
-because for some reason the Miller Center didn't have it yet.
-
 Comparative analysis.
 ---------------------
 
