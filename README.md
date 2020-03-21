@@ -87,10 +87,18 @@ original URL:
 
 3. Prepend `https://millercenter.org/the-presidency/presidential-speeches/`.
 
+For example,
+
+      data/2013-01-21-second-inaugural-address.txt
+
+corresponds to this URL:
+
+      https://millercenter.org/the-presidency/presidential-speeches/january-21-2013-second-inaugural-address
+
 Below is a list of various consistency and formatting issues I have
 noticed in the data.  Some of these are issues that would likely
-affect any comparative analysis, and would have to be filtered out or
-otherwise handled specially.  A general solution would be a 'pcat'
+affect any comparative analysis and thus would have to be filtered out
+or otherwise handled specially.  A general solution would be a 'pcat'
 command ("presidential catenate", like Unix 'cat' but living in the
 White House I guess) that takes a transcript as input and prints just
 the President's actual words as output.
