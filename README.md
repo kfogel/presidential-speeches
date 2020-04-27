@@ -192,9 +192,13 @@ the President's actual words as output.
 
 * 19 speeches are missing the HTML element that indicates location.
 
-  I haven't added this element, since none of the analysis I'm doing
-  takes location into account, but FWIW 19 speeches (about 2%) were
-  missing the `'<span class="speech-loc">...</span>'` element:
+  We don't include location information in the raw transcripts in the
+  [data](data) directory, since our analyses don't take location into
+  account anyway, but FWIW 19 of the speeches as downloaded from the
+  Miller Center didn't have the `'<span class="speech-loc">...</span>'` 
+  element in their HTML.  The command below won't work anymore, since
+  we later stripped out all the location data, but at the time it
+  showed which speeches were missing location information:
 
           $ for name in *;                                        \
               do if grep -q '<span class="speech-loc">' ${name};  \
@@ -234,9 +238,6 @@ the President's actual words as output.
 
   This issue is also mentioned in my 2017-05-14 report to
   https://millercenter.org/contact.
-
-  Note that the raw texts in the [data](data) directory do not include
-  the HTML anymore, so the above will not run against current data.
 
 * The transcript of at least one speech is really a summary.
 
