@@ -1,19 +1,25 @@
 Presidential Speeches
 =====================
 
-This repository holds the raw text of over a thousand
-U.S. presidential speeches, and some open source code for doing (so
-far rudimentary) analysis of them.
+This repository holds the raw text of over a thousand U.S.
+Presidential speeches.  I think doing comparative linguistic analysis
+on them might be interesting.  However, I haven't gotten around to
+that part yet, so the main thing of interest here is the data -- the
+speeches themselves.  There is a small amount of open source code for
+doing some rudimentary analysis, but I hope someone will take this
+further than I've had time to.  "Patches welcome", as the saying goes.
 
 So far, all the texts come from [The Miller
 Center](https://millercenter.org/the-presidency/presidential-speeches)
 at the University of Virginia.  The Miller Center provides not just
-the text of the speeches, but audio and video when available.
-However, since each speech is encapsulated in a single web page and
-those pages are in a pretty consistent format (thank you, Miller
-Center!), the raw text for each speech was easily extractable via
-[Emacs](https://www.gnu.org/software/emacs/) macros.  See the section
-"Notes on data formatting and consistency" below for details.
+the text of the speeches, but audio and video when available.  Since
+each speech is encapsulated in a single web page and those pages are
+in a pretty consistent format (thank you, Miller Center!), the raw
+text for each speech was easily extractable.  I used
+[Emacs](https://www.gnu.org/software/emacs/) macros (thank you,
+Emacs!), but one could easily script the process in any programming
+language.  See the section "Notes on data formatting and consistency"
+below for details.
 
 Comparative analysis.
 ---------------------
@@ -24,8 +30,8 @@ Notes on data formatting and consistency.
 -----------------------------------------
 
 Each transcript in the [data](data) directory starts with a single
-line of the form "President: Name Of Some President", followed on
-the next line (or maybe after some blank lines) by the transcript.
+line of the form "President: Name Of Some President", followed after a
+blank line by the transcript.
 
 The presidential identifiers appear to be consistent, e.g., LBJ is
 always "Lyndon B. Johnson", never "Lyndon Johnson".  Here's how I
