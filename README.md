@@ -21,6 +21,31 @@ Emacs!), but one could easily script the process in any programming
 language.  See the section "Notes on data formatting and consistency"
 below for details.
 
+Related resources.
+------------------
+
+See the [UCSB American Presidency
+Project](https://www.presidency.ucsb.edu/index.php) (APP).  It doesn't
+offer APIs for bulk download, but fortunately Aaron Penne has [written
+scraping tools](https://github.com/aaronpenne/government_corpus) to
+extract data from APP (pleasingly, the scraper uses Leonard
+Richardson's classic [Beautiful
+Soup](https://www.crummy.com/software/BeautifulSoup/) Python library).
+
+As of this writing in October 2020, Aaron's scraper only knows how to
+get executive orders and proclamations, but perhaps support for other
+types of materials would be easy to add.  The APP does include some
+Presidential documents that reflect the President's own speaking or
+writing style, although much of what's there (e.g., those executive
+orders and proclamations) is drafted by executive branch lawyers and
+would not reflect the President's style, and thus not be useful for
+the kind of linguistic analysis contemplated here.
+
+We haven't yet incorporated any material from APP here.  If there are
+speeches or press conferences that APP has that the Miller Center
+doesn't, then that data is not yet represented here.  "Patches
+welcome", as usual.
+
 Comparative analysis.
 ---------------------
 
